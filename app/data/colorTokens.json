@@ -1,0 +1,784 @@
+{
+  "tokens": [
+    {
+      "name": "Background/Blur",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "#fdfdfd99",
+        "value": "#fdfdfd99"
+      },
+      "darkValue": {
+        "name": "#27272a99",
+        "value": "#27272a99"
+      }
+    },
+    {
+      "name": "Background/Default",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/25",
+        "value": "#fafafa"
+      },
+      "darkValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      }
+    },
+    {
+      "name": "Background/Primary/Default",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      }
+    },
+    {
+      "name": "Background/Primary/Disabled",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/300",
+        "value": "#93c5fd"
+      },
+      "darkValue": {
+        "name": "Primary/300",
+        "value": "#93c5fd"
+      }
+    },
+    {
+      "name": "Background/Primary/Focus",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/700",
+        "value": "#1d4ed8"
+      },
+      "darkValue": {
+        "name": "Primary/700",
+        "value": "#1d4ed8"
+      }
+    },
+    {
+      "name": "Background/Primary/Hover",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/600",
+        "value": "#2563eb"
+      },
+      "darkValue": {
+        "name": "Primary/600",
+        "value": "#2563eb"
+      }
+    },
+    {
+      "name": "Background/Primary/Subtle",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      }
+    },
+    {
+      "name": "Background/Selected",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Background/Subtitle",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Background/Sunken",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      }
+    },
+    {
+      "name": "Border/Bold",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Border/Default",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Border/Primary/Default",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      }
+    },
+    {
+      "name": "Border/Primary/Focus",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/700",
+        "value": "#1d4ed8"
+      },
+      "darkValue": {
+        "name": "Primary/700",
+        "value": "#1d4ed8"
+      }
+    },
+    {
+      "name": "Border/Primary/Subtle",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      }
+    },
+    {
+      "name": "Border/Subtitle",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Bg/Default",
+      "description": "Use for element backgrounds",
+      "lightValue": {
+        "name": "Zinc/50",
+        "value": "#f9fafb"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Element/Bg/Disabled",
+      "description": "Use for disabled element backgrounds",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#374151"
+      }
+    },
+    {
+      "name": "Element/Border/Error",
+      "description": "Use for error element borders",
+      "lightValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      },
+      "darkValue": {
+        "name": "Red/600",
+        "value": "#dc2626"
+      }
+    },
+    {
+      "name": "Element/Border/Focus",
+      "description": "Use for focused element borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      }
+    },
+    {
+      "name": "Element/Border/Hover",
+      "description": "Use for hovered element borders",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Element/Text/Disabled",
+      "description": "Use for disabled text",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Element/Text/Selected",
+      "description": "Use for selected text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "White",
+        "value": "#ffffff"
+      }
+    },
+    {
+      "name": "Icon/Default",
+      "description": "Use for icons",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      }
+    },
+    {
+      "name": "Icon/Disabled",
+      "description": "Use for disabled icons",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Icon/Emphasize",
+      "description": "Use for emphasized icons",
+      "lightValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      },
+      "darkValue": {
+        "name": "White",
+        "value": "#ffffff"
+      }
+    },
+    {
+      "name": "Icon/Primary",
+      "description": "Use for primary icons",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      }
+    },
+    {
+      "name": "Icon/Subtle",
+      "description": "Use for subtle icons",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Icon/Subtitle",
+      "description": "Use for subtitle icons",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      }
+    },
+    {
+      "name": "Link-text/Default",
+      "description": "Use for default link text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "Primary/300",
+        "value": "#93c5fd"
+      }
+    },
+    {
+      "name": "Link-text/Hover",
+      "description": "Use for hovered link text",
+      "lightValue": {
+        "name": "Primary/800",
+        "value": "#1e40af"
+      },
+      "darkValue": {
+        "name": "Primary/600",
+        "value": "#2563eb"
+      }
+    },
+    {
+      "name": "Link-text/Pressed",
+      "description": "Use for pressed link text",
+      "lightValue": {
+        "name": "Primary/600",
+        "value": "#2563eb"
+      },
+      "darkValue": {
+        "name": "Primary/400",
+        "value": "#60a5fa"
+      }
+    },
+    {
+      "name": "Logo",
+      "description": "Use for logos",
+      "lightValue": {
+        "name": "Black",
+        "value": "#000000"
+      },
+      "darkValue": {
+        "name": "White",
+        "value": "#ffffff"
+      }
+    },
+    {
+      "name": "Overlay",
+      "description": "Use for overlays",
+      "lightValue": {
+        "name": "Zinc/900",
+        "value": "#18181b"
+      },
+      "darkValue": {
+        "name": "Black",
+        "value": "#000000"
+      }
+    },
+    {
+      "name": "Pink",
+      "description": "Use for pink accents",
+      "lightValue": {
+        "name": "Pink/500",
+        "value": "#ec4899"
+      },
+      "darkValue": {
+        "name": "Pink/400",
+        "value": "#f472b6"
+      }
+    },
+    {
+      "name": "Prime/Border",
+      "description": "Use for prime borders",
+      "lightValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      },
+      "darkValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      }
+    },
+    {
+      "name": "Prime/Default",
+      "description": "Use for prime elements",
+      "lightValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      },
+      "darkValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      }
+    },
+    {
+      "name": "Raised/Bg/Default",
+      "description": "Use for raised elements",
+      "lightValue": {
+        "name": "Zinc/50",
+        "value": "#f9fafb"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Raised/Bg/Hover",
+      "description": "Use for hovered raised elements",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Raised/Icon/Default",
+      "description": "Use for default raised icons",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#374151"
+      }
+    },
+    {
+      "name": "Raised/Icon/Hover",
+      "description": "Use for hovered raised icons",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "State/Danger/Bg/Default",
+      "description": "Use for danger state background",
+      "lightValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      },
+      "darkValue": {
+        "name": "Red/600",
+        "value": "#dc2626"
+      }
+    },
+    {
+      "name": "State/Danger/Bg/Light",
+      "description": "Use for light danger state background",
+      "lightValue": {
+        "name": "Red/100",
+        "value": "#fee2e2"
+      },
+      "darkValue": {
+        "name": "Red/200",
+        "value": "#fecaca"
+      }
+    },
+    {
+      "name": "State/Danger/Border/Default",
+      "description": "Use for danger state border",
+      "lightValue": {
+        "name": "Red/600",
+        "value": "#dc2626"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "State/Danger/Border/Light",
+      "description": "Use for light danger state border",
+      "lightValue": {
+        "name": "Red/200",
+        "value": "#fecaca"
+      },
+      "darkValue": {
+        "name": "Red/100",
+        "value": "#fee2e2"
+      }
+    },
+    {
+      "name": "State/Danger/Text",
+      "description": "Use for danger state text",
+      "lightValue": {
+        "name": "Red/600",
+        "value": "#dc2626"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "State/Default/Background",
+      "description": "Use for default state background",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      }
+    },
+    {
+      "name": "State/Info/Background",
+      "description": "Use for info state background",
+      "lightValue": {
+        "name": "Sky/100",
+        "value": "#e0f2fe"
+      },
+      "darkValue": {
+        "name": "Sky/400",
+        "value": "#38bdf8"
+      }
+    },
+    {
+      "name": "State/Info/Border/Default",
+      "description": "Use for info state border",
+      "lightValue": {
+        "name": "Sky/400",
+        "value": "#38bdf8"
+      },
+      "darkValue": {
+        "name": "Sky/600",
+        "value": "#0284c7"
+      }
+    },
+    {
+      "name": "State/Info/Border/Light",
+      "description": "Use for light info state border",
+      "lightValue": {
+        "name": "Sky/200",
+        "value": "#bae6fd"
+      },
+      "darkValue": {
+        "name": "Sky/100",
+        "value": "#e0f2fe"
+      }
+    },
+    {
+      "name": "State/Info/Text",
+      "description": "Use for info state text",
+      "lightValue": {
+        "name": "Sky/700",
+        "value": "#0369a1"
+      },
+      "darkValue": {
+        "name": "Sky/500",
+        "value": "#0ea5e9"
+      }
+    },
+    {
+      "name": "State/Success/Background",
+      "description": "Use for success state background",
+      "lightValue": {
+        "name": "Emerald/100",
+        "value": "#d1fae5"
+      },
+      "darkValue": {
+        "name": "Emerald/400",
+        "value": "#34d399"
+      }
+    },
+    {
+      "name": "State/Success/Border/Default",
+      "description": "Use for success state border",
+      "lightValue": {
+        "name": "Emerald/500",
+        "value": "#10b981"
+      },
+      "darkValue": {
+        "name": "Emerald/600",
+        "value": "#059669"
+      }
+    },
+    {
+      "name": "State/Success/Border/Light",
+      "description": "Use for light success state border",
+      "lightValue": {
+        "name": "Emerald/200",
+        "value": "#a7f3d0"
+      },
+      "darkValue": {
+        "name": "Emerald/100",
+        "value": "#d1fae5"
+      }
+    },
+    {
+      "name": "State/Success/Text",
+      "description": "Use for success state text",
+      "lightValue": {
+        "name": "Emerald/500",
+        "value": "#10b981"
+      },
+      "darkValue": {
+        "name": "Emerald/600",
+        "value": "#059669"
+      }
+    },
+    {
+      "name": "State/Warning/Background",
+      "description": "Use for warning state background",
+      "lightValue": {
+        "name": "Amber/100",
+        "value": "#fef3c7"
+      },
+      "darkValue": {
+        "name": "Amber/200",
+        "value": "#fde68a"
+      }
+    },
+    {
+      "name": "State/Warning/Border/Default",
+      "description": "Use for warning state border",
+      "lightValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      },
+      "darkValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      }
+    },
+    {
+      "name": "State/Warning/Border/Light",
+      "description": "Use for light warning state border",
+      "lightValue": {
+        "name": "Amber/200",
+        "value": "#fde68a"
+      },
+      "darkValue": {
+        "name": "Amber/100",
+        "value": "#fef3c7"
+      }
+    },
+    {
+      "name": "State/Warning/Text",
+      "description": "Use for warning state text",
+      "lightValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      },
+      "darkValue": {
+        "name": "Amber/400",
+        "value": "#fbbf24"
+      }
+    },
+    {
+      "name": "Text-mark/Comment/Default",
+      "description": "Use for default comment text marks",
+      "lightValue": {
+        "name": "Primary/300/30%",
+        "value": "#93c5fd4d"
+      },
+      "darkValue": {
+        "name": "Primary/400/30%",
+        "value": "#60a5fa4d"
+      }
+    },
+    {
+      "name": "Text-mark/Comment/Selected",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Primary/500/45%",
+        "value": "#3b82f673"
+      },
+      "darkValue": {
+        "name": "Primary/600/45%",
+        "value": "#2563eb73"
+      }
+    },
+    {
+      "name": "Text/Emphasize",
+      "description": "Use for emphasized text",
+      "lightValue": {
+        "name": "Zinc/700",
+        "value": "#52525b"
+      },
+      "darkValue": {
+        "name": "White",
+        "value": "#ffffff"
+      }
+    },
+    {
+      "name": "Text/Primary",
+      "description": "Use for primary text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      },
+      "darkValue": {
+        "name": "Primary/500",
+        "value": "#3b82f6"
+      }
+    },
+    {
+      "name": "Text/Subtitle",
+      "description": "Use for subtitle text",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Text/Subtle",
+      "description": "Use for subtle text",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    }
+  ]
+}
