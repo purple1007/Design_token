@@ -17,7 +17,7 @@
       "description": "Use for background",
       "lightValue": {
         "name": "Zinc/25",
-        "value": "#fafafa"
+        "value": "#fdfdfd"
       },
       "darkValue": {
         "name": "Zinc/800",
@@ -29,11 +29,11 @@
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/500",
-        "value": "#3b82f6"
+        "value": "#564dff"
       },
       "darkValue": {
         "name": "Primary/500",
-        "value": "#3b82f6"
+        "value": "#564dff"
       }
     },
     {
@@ -41,47 +41,59 @@
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/300",
-        "value": "#93c5fd"
+        "value": "#9894f9"
       },
       "darkValue": {
-        "name": "Primary/300",
-        "value": "#93c5fd"
+        "name": "#3932aa",
+        "value": "#3932aa"
       }
     },
     {
       "name": "Background/Primary/Focus",
       "description": "Use for background",
       "lightValue": {
-        "name": "Primary/700",
-        "value": "#1d4ed8"
+        "name": "Primary/800",
+        "value": "#2e01a5"
       },
       "darkValue": {
-        "name": "Primary/700",
-        "value": "#1d4ed8"
+        "name": "Primary/400",
+        "value": "#766df8"
       }
     },
     {
       "name": "Background/Primary/Hover",
       "description": "Use for background",
       "lightValue": {
-        "name": "Primary/600",
-        "value": "#2563eb"
+        "name": "Primary/800",
+        "value": "#2e01a5"
       },
       "darkValue": {
-        "name": "Primary/600",
-        "value": "#2563eb"
+        "name": "Primary/400",
+        "value": "#766df8"
       }
     },
     {
       "name": "Background/Primary/Subtle",
       "description": "Use for background",
       "lightValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "Primary/100",
+        "value": "#cccafc"
       },
       "darkValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "#302d6a",
+        "value": "#302d6a"
+      }
+    },
+    {
+      "name": "Background/Primary/Subtler",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/50",
+        "value": "#ecebfe"
+      },
+      "darkValue": {
+        "name": "#2c2a4a",
+        "value": "#2c2a4a"
       }
     },
     {
@@ -97,7 +109,7 @@
       }
     },
     {
-      "name": "Background/Subtitle",
+      "name": "Background/Subtle",
       "description": "Use for background",
       "lightValue": {
         "name": "Zinc/100",
@@ -109,39 +121,51 @@
       }
     },
     {
+      "name": "Background/Subtler",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/50",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/750",
+        "value": "#303036"
+      }
+    },
+    {
       "name": "Background/Sunken",
       "description": "Use for background",
       "lightValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
       },
       "darkValue": {
-        "name": "Zinc/800",
-        "value": "#27272a"
+        "name": "Zinc/900",
+        "value": "#18181b"
       }
     },
     {
       "name": "Border/Bold",
       "description": "Use for borders",
       "lightValue": {
-        "name": "Zinc/300",
-        "value": "#d4d4d8"
+        "name": "Zinc/600",
+        "value": "#52525b"
       },
       "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
       }
     },
     {
       "name": "Border/Default",
       "description": "Use for borders",
       "lightValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
       },
       "darkValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
+        "name": "Zinc/600",
+        "value": "#52525b"
       }
     },
     {
@@ -149,43 +173,55 @@
       "description": "Use for borders",
       "lightValue": {
         "name": "Primary/500",
-        "value": "#3b82f6"
+        "value": "#564dff"
       },
       "darkValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "Primary/300",
+        "value": "#9894f9"
       }
     },
     {
       "name": "Border/Primary/Focus",
       "description": "Use for borders",
       "lightValue": {
-        "name": "Primary/700",
-        "value": "#1d4ed8"
+        "name": "Primary/400",
+        "value": "#766df8"
       },
       "darkValue": {
-        "name": "Primary/700",
-        "value": "#1d4ed8"
+        "name": "Primary/400",
+        "value": "#766df8"
       }
     },
     {
-      "name": "Border/Primary/Subtle",
+      "name": "Border/Primary/Subtler",
       "description": "Use for borders",
       "lightValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "Primary/400",
+        "value": "#766df8"
       },
       "darkValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "Primary/400",
+        "value": "#766df8"
       }
     },
     {
-      "name": "Border/Subtitle",
+      "name": "Border/Subtle",
       "description": "Use for borders",
       "lightValue": {
-        "name": "Zinc/100",
-        "value": "#f4f4f5"
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Border/Subtler",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
       },
       "darkValue": {
         "name": "Zinc/500",
@@ -193,19 +229,43 @@
       }
     },
     {
+      "name": "Border/Subtlest",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#303036"
+      }
+    },
+    {
       "name": "Element/Bg/Default",
       "description": "Use for element backgrounds",
       "lightValue": {
-        "name": "Zinc/50",
-        "value": "#f9fafb"
+        "name": "White",
+        "value": "#ffffff"
       },
       "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
+        "name": "Zinc/700",
+        "value": "#3f3f46"
       }
     },
     {
       "name": "Element/Bg/Disabled",
+      "description": "Use for disabled element backgrounds",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/750",
+        "value": "#303036"
+      }
+    },
+    {
+      "name": "Element/Bg/Hover",
       "description": "Use for disabled element backgrounds",
       "lightValue": {
         "name": "Zinc/100",
@@ -213,19 +273,31 @@
       },
       "darkValue": {
         "name": "Zinc/700",
-        "value": "#374151"
+        "value": "#3f3f46"
+      }
+    },
+    {
+      "name": "Element/Border/Disabled",
+      "description": "Use for error element borders",
+      "lightValue": {
+        "name": "Border/Subtler",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Border/Subtler",
+        "value": "#71717a"
       }
     },
     {
       "name": "Element/Border/Error",
       "description": "Use for error element borders",
       "lightValue": {
-        "name": "Red/400",
-        "value": "#f87171"
-      },
-      "darkValue": {
         "name": "Red/600",
         "value": "#dc2626"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
       }
     },
     {
@@ -236,20 +308,20 @@
         "value": "#71717a"
       },
       "darkValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
+        "name": "Zinc/500",
+        "value": "#71717a"
       }
     },
     {
       "name": "Element/Border/Hover",
       "description": "Use for hovered element borders",
       "lightValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
+        "name": "Zinc/500",
+        "value": "#71717a"
       },
       "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
+        "name": "Zinc/500",
+        "value": "#71717a"
       }
     },
     {
@@ -260,8 +332,8 @@
         "value": "#a1a1aa"
       },
       "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
+        "name": "Zinc/500",
+        "value": "#71717a"
       }
     },
     {
@@ -269,7 +341,7 @@
       "description": "Use for selected text",
       "lightValue": {
         "name": "Primary/500",
-        "value": "#3b82f6"
+        "value": "#564dff"
       },
       "darkValue": {
         "name": "White",
@@ -284,8 +356,8 @@
         "value": "#71717a"
       },
       "darkValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
       }
     },
     {
@@ -296,8 +368,8 @@
         "value": "#a1a1aa"
       },
       "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
+        "name": "Zinc/500",
+        "value": "#71717a"
       }
     },
     {
@@ -308,20 +380,20 @@
         "value": "#27272a"
       },
       "darkValue": {
-        "name": "White",
-        "value": "#ffffff"
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
       }
     },
     {
       "name": "Icon/Primary",
       "description": "Use for primary icons",
       "lightValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "Text/Primary (Primary/500)",
+        "value": "#564dff"
       },
       "darkValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "Text/Primary (Primary/300)",
+        "value": "#9894f9"
       }
     },
     {
@@ -332,20 +404,32 @@
         "value": "#a1a1aa"
       },
       "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
       }
     },
     {
-      "name": "Icon/Subtitle",
+      "name": "Icon/Subtler",
       "description": "Use for subtitle icons",
       "lightValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
       },
       "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Icon/Subtlest",
+      "description": "Use for subtitle icons",
+      "lightValue": {
         "name": "Zinc/200",
         "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
       }
     },
     {
@@ -353,11 +437,11 @@
       "description": "Use for default link text",
       "lightValue": {
         "name": "Primary/500",
-        "value": "#3b82f6"
+        "value": "#564dff"
       },
       "darkValue": {
         "name": "Primary/300",
-        "value": "#93c5fd"
+        "value": "#9894f9"
       }
     },
     {
@@ -365,23 +449,23 @@
       "description": "Use for hovered link text",
       "lightValue": {
         "name": "Primary/800",
-        "value": "#1e40af"
+        "value": "#2e01a5"
       },
       "darkValue": {
-        "name": "Primary/600",
-        "value": "#2563eb"
+        "name": "Primary/200",
+        "value": "#b2abfb"
       }
     },
     {
       "name": "Link-text/Pressed",
       "description": "Use for pressed link text",
       "lightValue": {
-        "name": "Primary/600",
-        "value": "#2563eb"
+        "name": "Primary/800",
+        "value": "#2e01a5"
       },
       "darkValue": {
-        "name": "Primary/400",
-        "value": "#60a5fa"
+        "name": "Primary/200",
+        "value": "#b2abfb"
       }
     },
     {
@@ -400,12 +484,12 @@
       "name": "Overlay",
       "description": "Use for overlays",
       "lightValue": {
-        "name": "Zinc/900",
-        "value": "#18181b"
+        "name": "#0000004d",
+        "value": "#0000004d"
       },
       "darkValue": {
-        "name": "Black",
-        "value": "#000000"
+        "name": "000000b3",
+        "value": "#000000b3"
       }
     },
     {
@@ -413,19 +497,19 @@
       "description": "Use for pink accents",
       "lightValue": {
         "name": "Pink/500",
-        "value": "#ec4899"
+        "value": "#ff288f"
       },
       "darkValue": {
         "name": "Pink/400",
-        "value": "#f472b6"
+        "value": "#ff4ca2"
       }
     },
     {
       "name": "Prime/Border",
       "description": "Use for prime borders",
       "lightValue": {
-        "name": "Amber/400",
-        "value": "#fbbf24"
+        "name": "Amber/500",
+        "value": "#f59e0b"
       },
       "darkValue": {
         "name": "Amber/400",
@@ -440,52 +524,28 @@
         "value": "#f59e0b"
       },
       "darkValue": {
-        "name": "Amber/500",
-        "value": "#f59e0b"
+        "name": "Amber/400",
+        "value": "#fbbf24"
       }
     },
     {
       "name": "Raised/Bg/Default",
       "description": "Use for raised elements",
       "lightValue": {
-        "name": "Zinc/50",
-        "value": "#f9fafb"
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
       },
       "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
+        "name": "Zinc/700",
+        "value": "#3f3f46"
       }
     },
     {
       "name": "Raised/Bg/Hover",
       "description": "Use for hovered raised elements",
       "lightValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
-      },
-      "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      }
-    },
-    {
-      "name": "Raised/Icon/Default",
-      "description": "Use for default raised icons",
-      "lightValue": {
         "name": "Zinc/300",
         "value": "#d4d4d8"
-      },
-      "darkValue": {
-        "name": "Zinc/700",
-        "value": "#374151"
-      }
-    },
-    {
-      "name": "Raised/Icon/Hover",
-      "description": "Use for hovered raised icons",
-      "lightValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
       },
       "darkValue": {
         "name": "Zinc/600",
@@ -493,35 +553,71 @@
       }
     },
     {
+      "name": "Raised/Icon/Default",
+      "description": "Use for default raised icons",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      }
+    },
+    {
+      "name": "Raised/Icon/Hover",
+      "description": "Use for hovered raised icons",
+      "lightValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      },
+      "darkValue": {
+        "name": "Zinc/50",
+        "value": "#fafafa"
+      }
+    },
+    {
       "name": "State/Danger/Bg/Default",
       "description": "Use for danger state background",
       "lightValue": {
-        "name": "Red/400",
-        "value": "#f87171"
+        "name": "Red/500",
+        "value": "#ef4444"
       },
       "darkValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      }
+    },
+    {
+      "name": "State/Danger/Bg/Hover",
+      "description": "Use for danger state background",
+      "lightValue": {
         "name": "Red/600",
         "value": "#dc2626"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
       }
     },
     {
       "name": "State/Danger/Bg/Light",
       "description": "Use for light danger state background",
       "lightValue": {
-        "name": "Red/100",
-        "value": "#fee2e2"
+        "name": "Red/75",
+        "value": "#feeeee"
       },
       "darkValue": {
-        "name": "Red/200",
-        "value": "#fecaca"
+        "name": "Red/500/20%",
+        "value": "#ef444433"
       }
     },
     {
       "name": "State/Danger/Border/Default",
       "description": "Use for danger state border",
       "lightValue": {
-        "name": "Red/600",
-        "value": "#dc2626"
+        "name": "Red/300",
+        "value": "#fca5a5"
       },
       "darkValue": {
         "name": "Red/400",
@@ -529,23 +625,35 @@
       }
     },
     {
-      "name": "State/Danger/Border/Light",
+      "name": "State/Danger/Border/Subtle",
       "description": "Use for light danger state border",
       "lightValue": {
         "name": "Red/200",
         "value": "#fecaca"
       },
       "darkValue": {
-        "name": "Red/100",
-        "value": "#fee2e2"
+        "name": "#ef44444d",
+        "value": "#ef44444d"
+      }
+    },
+    {
+      "name": "State/Danger/Icon",
+      "description": "Use for danger state icon",
+      "lightValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
       }
     },
     {
       "name": "State/Danger/Text",
       "description": "Use for danger state text",
       "lightValue": {
-        "name": "Red/600",
-        "value": "#dc2626"
+        "name": "Red/500",
+        "value": "#ef4444"
       },
       "darkValue": {
         "name": "Red/400",
@@ -556,12 +664,12 @@
       "name": "State/Default/Background",
       "description": "Use for default state background",
       "lightValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
+        "name": "Zinc/300",
+        "value": "#fca5a5"
       },
       "darkValue": {
-        "name": "Zinc/800",
-        "value": "#27272a"
+        "name": "Zinc/600",
+        "value": "#dc2626"
       }
     },
     {
@@ -572,16 +680,16 @@
         "value": "#e0f2fe"
       },
       "darkValue": {
-        "name": "Sky/400",
-        "value": "#38bdf8"
+        "name": "Sky/400/10%",
+        "value": "#38bdf81a"
       }
     },
     {
       "name": "State/Info/Border/Default",
       "description": "Use for info state border",
       "lightValue": {
-        "name": "Sky/400",
-        "value": "#38bdf8"
+        "name": "Sky/200",
+        "value": "#bae6fd"
       },
       "darkValue": {
         "name": "Sky/600",
@@ -589,23 +697,23 @@
       }
     },
     {
-      "name": "State/Info/Border/Light",
+      "name": "State/Info/Border/Subtle",
       "description": "Use for light info state border",
       "lightValue": {
         "name": "Sky/200",
         "value": "#bae6fd"
       },
       "darkValue": {
-        "name": "Sky/100",
-        "value": "#e0f2fe"
+        "name": "Sky/400/20%",
+        "value": "#38bdf833"
       }
     },
     {
-      "name": "State/Info/Text",
+      "name": "State/Info/Default",
       "description": "Use for info state text",
       "lightValue": {
-        "name": "Sky/700",
-        "value": "#0369a1"
+        "name": "Sky/500",
+        "value": "#0ea5e9"
       },
       "darkValue": {
         "name": "Sky/500",
@@ -613,68 +721,140 @@
       }
     },
     {
+      "name": "State/Info/Icon",
+      "description": "Use for info state text",
+      "lightValue": {
+        "name": "Sky/500",
+        "value": "#0ea5e9"
+      },
+      "darkValue": {
+        "name": "Sky/500",
+        "value": "#0ea5e9"
+      }
+    },
+    {
+      "name": "State/Info/Text",
+      "description": "Use for info state text",
+      "lightValue": {
+        "name": "Sky/600",
+        "value": "#0284c7"
+      },
+      "darkValue": {
+        "name": "Sky/400",
+        "value": "#38bdf8"
+      }
+    },
+    {
       "name": "State/Success/Background",
       "description": "Use for success state background",
       "lightValue": {
-        "name": "Emerald/100",
-        "value": "#d1fae5"
+        "name": "Emerald/75",
+        "value": "#e5fbef"
       },
       "darkValue": {
-        "name": "Emerald/400",
-        "value": "#34d399"
+        "name": "Emerald/400/15%",
+        "value": "#6bd19d26"
       }
     },
     {
       "name": "State/Success/Border/Default",
       "description": "Use for success state border",
       "lightValue": {
-        "name": "Emerald/500",
-        "value": "#10b981"
+        "name": "Emerald/200",
+        "value": "#b8f1d2"
       },
       "darkValue": {
         "name": "Emerald/600",
-        "value": "#059669"
+        "value": "#43946c"
       }
     },
     {
-      "name": "State/Success/Border/Light",
+      "name": "State/Success/Border/Sublte",
       "description": "Use for light success state border",
       "lightValue": {
         "name": "Emerald/200",
-        "value": "#a7f3d0"
+        "value": "#b8f1d2"
       },
       "darkValue": {
-        "name": "Emerald/100",
-        "value": "#d1fae5"
+        "name": "Emerald/400/20%",
+        "value": "#6bd19d33"
+      }
+    },
+    {
+      "name": "State/Success/Default",
+      "description": "Use for success state text",
+      "lightValue": {
+        "name": "Green/400",
+        "value": "#76d158"
+      },
+      "darkValue": {
+        "name": "Green/500",
+        "value": "#59c335"
+      }
+    },
+    {
+      "name": "State/Success/Icon",
+      "description": "Use for success state text",
+      "lightValue": {
+        "name": "Emerald/400",
+        "value": "#6bd19d"
+      },
+      "darkValue": {
+        "name": "Emerald/500",
+        "value": "#55b685"
       }
     },
     {
       "name": "State/Success/Text",
       "description": "Use for success state text",
       "lightValue": {
-        "name": "Emerald/500",
-        "value": "#10b981"
+        "name": "Emerald/600",
+        "value": "#43946c"
       },
       "darkValue": {
-        "name": "Emerald/600",
-        "value": "#059669"
+        "name": "Emerald/500",
+        "value": "#55b685"
       }
     },
     {
       "name": "State/Warning/Background",
       "description": "Use for warning state background",
       "lightValue": {
-        "name": "Amber/100",
-        "value": "#fef3c7"
+        "name": "Amber/75",
+        "value": "#fef8dd"
       },
       "darkValue": {
-        "name": "Amber/200",
-        "value": "#fde68a"
+        "name": "Amber/400/10%",
+        "value": "#fbbf241a"
       }
     },
     {
       "name": "State/Warning/Border/Default",
       "description": "Use for warning state border",
+      "lightValue": {
+        "name": "Amber/300",
+        "value": "#fcd34d"
+      },
+      "darkValue": {
+        "name": "Amber/500",
+        "value": "#f59e0b"
+      }
+    },
+    {
+      "name": "State/Warning/Border/Sublte",
+      "description": "Use for light warning state border",
+      "lightValue": {
+        "name": "Amber/200",
+        "value": "#fde68a"
+      },
+      "darkValue": {
+        "name": "Amber/400/20%",
+        "value": "#fbbf2433"
+      }
+    },
+    {
+      "name": "State/Warning/Default",
+      "description": "Use for warning state text",
       "lightValue": {
         "name": "Amber/400",
         "value": "#fbbf24"
@@ -685,23 +865,23 @@
       }
     },
     {
-      "name": "State/Warning/Border/Light",
-      "description": "Use for light warning state border",
+      "name": "State/Warning/Icon",
+      "description": "Use for warning state text",
       "lightValue": {
-        "name": "Amber/200",
-        "value": "#fde68a"
+        "name": "Amber/400",
+        "value": "#fbbf24"
       },
       "darkValue": {
-        "name": "Amber/100",
-        "value": "#fef3c7"
+        "name": "Amber/400",
+        "value": "#fbbf24"
       }
     },
     {
       "name": "State/Warning/Text",
       "description": "Use for warning state text",
       "lightValue": {
-        "name": "Amber/500",
-        "value": "#f59e0b"
+        "name": "Amber/600",
+        "value": "#d97706"
       },
       "darkValue": {
         "name": "Amber/400",
@@ -712,12 +892,12 @@
       "name": "Text-mark/Comment/Default",
       "description": "Use for default comment text marks",
       "lightValue": {
-        "name": "Primary/300/30%",
-        "value": "#93c5fd4d"
+        "name": "Primary/500/30%",
+        "value": "#564dff4d"
       },
       "darkValue": {
-        "name": "Primary/400/30%",
-        "value": "#60a5fa4d"
+        "name": "Primary/600/30%",
+        "value": "#453aff4d"
       }
     },
     {
@@ -725,23 +905,95 @@
       "description": "Use for selected comment text marks",
       "lightValue": {
         "name": "Primary/500/45%",
-        "value": "#3b82f673"
+        "value": "#564dff73"
       },
       "darkValue": {
-        "name": "Primary/600/45%",
-        "value": "#2563eb73"
+        "name": "Primary/600/60%",
+        "value": "#453aff99"
+      }
+    },
+    {
+      "name": "Text-mark/Diff/Del",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Red/100",
+        "value": "#fee2e2"
+      },
+      "darkValue": {
+        "name": "Red/500/20%",
+        "value": "#ef444433"
+      }
+    },
+    {
+      "name": "Text-mark/Diff/Ins",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/100",
+        "value": "#d9f9e5"
+      },
+      "darkValue": {
+        "name": "Emerald/400/30%",
+        "value": "#6bd19d4d"
+      }
+    },
+    {
+      "name": "Text-mark/Suggest/Border",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/600",
+        "value": "#43946c"
+      },
+      "darkValue": {
+        "name": "Emerald/400",
+        "value": "#6bd19d"
+      }
+    },
+    {
+      "name": "Text-mark/Suggest/Default",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/200",
+        "value": "#b8f1d2"
+      },
+      "darkValue": {
+        "name": "#40ff6a33",
+        "value": "#40ff6a33"
+      }
+    },
+    {
+      "name": "Text-mark/Suggest/Selected",
+      "description": "Use for selected comment text marks",
+      "lightValue": {
+        "name": "Emerald/300",
+        "value": "#8de4ba"
+      },
+      "darkValue": {
+        "name": "#40ff6a66",
+        "value": "#40ff6a66"
+      }
+    },
+    {
+      "name": "Text/Default",
+      "description": "Use for emphasized text",
+      "lightValue": {
+        "name": "Zinc/700",
+        "value": "#3f3f46"
+      },
+      "darkValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
       }
     },
     {
       "name": "Text/Emphasize",
       "description": "Use for emphasized text",
       "lightValue": {
-        "name": "Zinc/700",
-        "value": "#52525b"
+        "name": "Zinc/800",
+        "value": "#27272a"
       },
       "darkValue": {
-        "name": "White",
-        "value": "#ffffff"
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
       }
     },
     {
@@ -749,15 +1001,15 @@
       "description": "Use for primary text",
       "lightValue": {
         "name": "Primary/500",
-        "value": "#3b82f6"
+        "value": "#564dff"
       },
       "darkValue": {
-        "name": "Primary/500",
-        "value": "#3b82f6"
+        "name": "Primary/300",
+        "value": "#9894f9"
       }
     },
     {
-      "name": "Text/Subtitle",
+      "name": "Text/Subtle",
       "description": "Use for subtitle text",
       "lightValue": {
         "name": "Zinc/500",
@@ -769,7 +1021,7 @@
       }
     },
     {
-      "name": "Text/Subtle",
+      "name": "Text/Subtler",
       "description": "Use for subtle text",
       "lightValue": {
         "name": "Zinc/400",

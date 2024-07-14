@@ -22,6 +22,14 @@
       "group": "Amber",
       "list": [
         {
+          "name": "50",
+          "value": "#fffbeb"
+        },
+        {
+          "name": "75",
+          "value": "#fef8dd"
+        },
+        {
           "name": "100",
           "value": "#fef3c7"
         },
@@ -42,16 +50,12 @@
           "value": "#fbbf241a"
         },
         {
-          "name": "400/25%",
-          "value": "#fbbf2440"
+          "name": "400/20%",
+          "value": "#fbbf2433"
         },
         {
-          "name": "400/50%",
-          "value": "#fbbf247f"
-        },
-        {
-          "name": "400/75%",
-          "value": "#fbbf24bf"
+          "name": "400/30%",
+          "value": "#fbbf244d"
         },
         {
           "name": "500",
@@ -79,56 +83,60 @@
       "group": "Emerald",
       "list": [
         {
+          "name": "50",
+          "value": "#effcf5"
+        },
+        {
+          "name": "75",
+          "value": "#e5fbef"
+        },
+        {
           "name": "100",
-          "value": "#d1fae5"
+          "value": "#d9f9e5"
         },
         {
           "name": "200",
-          "value": "#a7f3d0"
+          "value": "#b8f1d2"
         },
         {
           "name": "300",
-          "value": "#6ee7b7"
+          "value": "#8de4ba"
         },
         {
           "name": "400",
-          "value": "#34d399"
+          "value": "#6bd19d"
         },
         {
-          "name": "400/10%",
-          "value": "#34d3991a"
+          "name": "400/15%",
+          "value": "#6bd19d26"
         },
         {
-          "name": "400/25%",
-          "value": "#34d39940"
+          "name": "400/20%",
+          "value": "#6bd19d33"
         },
         {
-          "name": "400/50%",
-          "value": "#34d3997f"
-        },
-        {
-          "name": "400/75%",
-          "value": "#34d399bf"
+          "name": "400/30%",
+          "value": "#6bd19d4d"
         },
         {
           "name": "500",
-          "value": "#10b981"
+          "value": "#55b685"
         },
         {
           "name": "600",
-          "value": "#059669"
+          "value": "#43946c"
         },
         {
           "name": "700",
-          "value": "#047857"
+          "value": "#347659"
         },
         {
           "name": "800",
-          "value": "#065f46"
+          "value": "#295e48"
         },
         {
           "name": "900",
-          "value": "#064e3b"
+          "value": "#214d3c"
         }
       ]
     },
@@ -136,56 +144,44 @@
       "group": "Green",
       "list": [
         {
+          "name": "50",
+          "value": "#f6fcf4"
+        },
+        {
           "name": "100",
-          "value": "#dcfce7"
+          "value": "#d6f1cd"
         },
         {
           "name": "200",
-          "value": "#bbf7d0"
+          "value": "#b6e7a6"
         },
         {
           "name": "300",
-          "value": "#86efac"
+          "value": "#96dc7f"
         },
         {
           "name": "400",
-          "value": "#4ade80"
-        },
-        {
-          "name": "400/10%",
-          "value": "#4ade801a"
-        },
-        {
-          "name": "400/25%",
-          "value": "#4ade8040"
-        },
-        {
-          "name": "400/50%",
-          "value": "#4ade807f"
-        },
-        {
-          "name": "400/75%",
-          "value": "#4ade80bf"
+          "value": "#76d158"
         },
         {
           "name": "500",
-          "value": "#22c55e"
+          "value": "#59c335"
         },
         {
           "name": "600",
-          "value": "#16a34a"
+          "value": "#479c2b"
         },
         {
           "name": "700",
-          "value": "#15803d"
+          "value": "#357520"
         },
         {
           "name": "800",
-          "value": "#166534"
+          "value": "#234e15"
         },
         {
           "name": "900",
-          "value": "#14532d"
+          "value": "#12270b"
         }
       ]
     },
@@ -193,56 +189,44 @@
       "group": "Pink",
       "list": [
         {
+          "name": "50",
+          "value": "#ffdbec"
+        },
+        {
           "name": "100",
-          "value": "#fce7f3"
+          "value": "#ffb7da"
         },
         {
           "name": "200",
-          "value": "#fbcfe8"
+          "value": "#ff94c7"
         },
         {
           "name": "300",
-          "value": "#f9a8d4"
+          "value": "#ff70b4"
         },
         {
           "name": "400",
-          "value": "#f472b6"
-        },
-        {
-          "name": "400/10%",
-          "value": "#f472b61a"
-        },
-        {
-          "name": "400/25%",
-          "value": "#f472b640"
-        },
-        {
-          "name": "400/50%",
-          "value": "#f472b67f"
-        },
-        {
-          "name": "400/75%",
-          "value": "#f472b6bf"
+          "value": "#ff4ca2"
         },
         {
           "name": "500",
-          "value": "#ec4899"
+          "value": "#ff288f"
         },
         {
           "name": "600",
-          "value": "#db2777"
+          "value": "#ec0071"
         },
         {
           "name": "700",
-          "value": "#be185d"
+          "value": "#b10055"
         },
         {
           "name": "800",
-          "value": "#9d174d"
+          "value": "#760039"
         },
         {
           "name": "900",
-          "value": "#831843"
+          "value": "#3b001c"
         }
       ]
     },
@@ -250,62 +234,98 @@
       "group": "Primary",
       "list": [
         {
+          "name": "50",
+          "value": "#ecebfe"
+        },
+        {
           "name": "100",
-          "value": "#dbeafe"
+          "value": "#cccafc"
         },
         {
           "name": "200",
-          "value": "#bfdbfe"
+          "value": "#b2abfb"
         },
         {
           "name": "300",
-          "value": "#93c5fd"
+          "value": "#9894f9"
         },
         {
           "name": "400",
-          "value": "#60a5fa"
-        },
-        {
-          "name": "400/10%",
-          "value": "#60a5fa1a"
-        },
-        {
-          "name": "400/25%",
-          "value": "#60a5fa40"
-        },
-        {
-          "name": "400/50%",
-          "value": "#60a5fa7f"
-        },
-        {
-          "name": "400/75%",
-          "value": "#60a5fabf"
+          "value": "#766df8"
         },
         {
           "name": "500",
-          "value": "#3b82f6"
+          "value": "#564dff"
+        },
+        {
+          "name": "500/15%",
+          "value": "#564dff26"
+        },
+        {
+          "name": "500/30%",
+          "value": "#564dff4d"
+        },
+        {
+          "name": "500/45%",
+          "value": "#564dff73"
+        },
+        {
+          "name": "500/60%",
+          "value": "#564dff80"
+        },
+        {
+          "name": "500/80%",
+          "value": "#564dffcc"
         },
         {
           "name": "600",
-          "value": "#2563eb"
+          "value": "#453aff"
+        },
+        {
+          "name": "600/15%",
+          "value": "#453aff26"
+        },
+        {
+          "name": "600/30%",
+          "value": "#453aff4d"
+        },
+        {
+          "name": "600/45%",
+          "value": "#453aff73"
+        },
+        {
+          "name": "600/60%",
+          "value": "#453aff99"
+        },
+        {
+          "name": "600/80%",
+          "value": "#453affcc"
         },
         {
           "name": "700",
-          "value": "#1d4ed8"
+          "value": "#4400ff"
         },
         {
           "name": "800",
-          "value": "#1e40af"
+          "value": "#2e01a5"
         },
         {
           "name": "900",
-          "value": "#1e3a8a"
+          "value": "#24007d"
         }
       ]
     },
     {
       "group": "Red",
       "list": [
+        {
+          "name": "50",
+          "value": "#fef2f2"
+        },
+        {
+          "name": "75",
+          "value": "#feeeee"
+        },
         {
           "name": "100",
           "value": "#fee2e2"
@@ -323,24 +343,16 @@
           "value": "#f87171"
         },
         {
-          "name": "400/10%",
-          "value": "#f871711a"
-        },
-        {
-          "name": "400/25%",
-          "value": "#f8717140"
-        },
-        {
-          "name": "400/50%",
-          "value": "#f871717f"
-        },
-        {
-          "name": "400/75%",
-          "value": "#f87171bf"
-        },
-        {
           "name": "500",
           "value": "#ef4444"
+        },
+        {
+          "name": "500/20%",
+          "value": "#ef444433"
+        },
+        {
+          "name": "500/40%",
+          "value": "#ef444466"
         },
         {
           "name": "600",
@@ -357,12 +369,20 @@
         {
           "name": "900",
           "value": "#7f1d1d"
+        },
+        {
+          "name": "900/60%",
+          "value": "#7f1d1d99"
         }
       ]
     },
     {
       "group": "Sky",
       "list": [
+        {
+          "name": "50",
+          "value": "#f0f9ff"
+        },
         {
           "name": "100",
           "value": "#e0f2fe"
@@ -384,16 +404,12 @@
           "value": "#38bdf81a"
         },
         {
-          "name": "400/25%",
-          "value": "#38bdf840"
+          "name": "400/20%",
+          "value": "#38bdf833"
         },
         {
-          "name": "400/50%",
-          "value": "#38bdf87f"
-        },
-        {
-          "name": "400/75%",
-          "value": "#38bdf8bf"
+          "name": "400/30%",
+          "value": "#38bdf84d"
         },
         {
           "name": "500",
@@ -422,15 +438,11 @@
       "list": [
         {
           "name": "25",
-          "value": "#fafafa"
+          "value": "#fdfdfd"
         },
         {
           "name": "50",
-          "value": "#f9fafb"
-        },
-        {
-          "name": "75",
-          "value": "#f5f5f5"
+          "value": "#fafafa"
         },
         {
           "name": "100",
@@ -461,8 +473,16 @@
           "value": "#3f3f46"
         },
         {
+          "name": "750",
+          "value": "#303036"
+        },
+        {
           "name": "800",
           "value": "#27272a"
+        },
+        {
+          "name": "850",
+          "value": "#202022"
         },
         {
           "name": "900",
@@ -470,7 +490,7 @@
         },
         {
           "name": "950",
-          "value": "#0c0c0d"
+          "value": "#0e0e10"
         }
       ]
     }
