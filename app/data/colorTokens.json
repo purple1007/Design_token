@@ -1,15 +1,63 @@
 {
   "tokens": [
     {
-      "name": "Background/Blur",
-      "description": "Use for background",
+      "name": "Text/Default",
+      "description": "Use for emphasized text",
       "lightValue": {
-        "name": "#fdfdfd99",
-        "value": "#fdfdfd99"
+        "name": "Zinc/700",
+        "value": "#3f3f46"
       },
       "darkValue": {
-        "name": "#27272a99",
-        "value": "#27272a99"
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      }
+    },
+    {
+      "name": "Text/Emphasize",
+      "description": "Use for emphasized text",
+      "lightValue": {
+        "name": "Zinc/800",
+        "value": "#27272a"
+      },
+      "darkValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      }
+    },
+    {
+      "name": "Text/Primary",
+      "description": "Use for primary text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "Primary/300",
+        "value": "#9894f9"
+      }
+    },
+    {
+      "name": "Text/Subtle",
+      "description": "Use for subtitle text",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Text/Subtler",
+      "description": "Use for subtle text",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
       }
     },
     {
@@ -25,6 +73,42 @@
       }
     },
     {
+      "name": "Background/Subtle",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Background/Subtler",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/50",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/750",
+        "value": "#303036"
+      }
+    },
+    {
+      "name": "Background/Sunken",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/900",
+        "value": "#18181b"
+      }
+    },
+    {
       "name": "Background/Primary/Default",
       "description": "Use for background",
       "lightValue": {
@@ -34,18 +118,6 @@
       "darkValue": {
         "name": "Primary/500",
         "value": "#564dff"
-      }
-    },
-    {
-      "name": "Background/Primary/Disabled",
-      "description": "Use for background",
-      "lightValue": {
-        "name": "Primary/300",
-        "value": "#9894f9"
-      },
-      "darkValue": {
-        "name": "#3932aa",
-        "value": "#3932aa"
       }
     },
     {
@@ -70,6 +142,18 @@
       "darkValue": {
         "name": "Primary/400",
         "value": "#766df8"
+      }
+    },
+    {
+      "name": "Background/Primary/Disabled",
+      "description": "Use for background",
+      "lightValue": {
+        "name": "Primary/300",
+        "value": "#9894f9"
+      },
+      "darkValue": {
+        "name": "#3932aa",
+        "value": "#3932aa"
       }
     },
     {
@@ -109,41 +193,17 @@
       }
     },
     {
-      "name": "Background/Subtle",
+      "name": "Background/Blur",
       "description": "Use for background",
       "lightValue": {
-        "name": "Zinc/100",
-        "value": "#f4f4f5"
+        "name": "#fdfdfd99",
+        "value": "#fdfdfd99"
       },
       "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
+        "name": "#27272a99",
+        "value": "#27272a99"
       }
-    },
-    {
-      "name": "Background/Subtler",
-      "description": "Use for background",
-      "lightValue": {
-        "name": "Zinc/50",
-        "value": "#f4f4f5"
-      },
-      "darkValue": {
-        "name": "Zinc/750",
-        "value": "#303036"
-      }
-    },
-    {
-      "name": "Background/Sunken",
-      "description": "Use for background",
-      "lightValue": {
-        "name": "Zinc/100",
-        "value": "#f4f4f5"
-      },
-      "darkValue": {
-        "name": "Zinc/900",
-        "value": "#18181b"
-      }
-    },
+    },   
     {
       "name": "Border/Bold",
       "description": "Use for borders",
@@ -277,6 +337,30 @@
       }
     },
     {
+      "name": "Element/Border/Hover",
+      "description": "Use for hovered element borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Border/Focus",
+      "description": "Use for focused element borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
       "name": "Element/Border/Disabled",
       "description": "Use for error element borders",
       "lightValue": {
@@ -298,30 +382,6 @@
       "darkValue": {
         "name": "Red/400",
         "value": "#f87171"
-      }
-    },
-    {
-      "name": "Element/Border/Focus",
-      "description": "Use for focused element borders",
-      "lightValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      },
-      "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      }
-    },
-    {
-      "name": "Element/Border/Hover",
-      "description": "Use for hovered element borders",
-      "lightValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      },
-      "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
       }
     },
     {
@@ -469,66 +529,6 @@
       }
     },
     {
-      "name": "Logo",
-      "description": "Use for logos",
-      "lightValue": {
-        "name": "Black",
-        "value": "#000000"
-      },
-      "darkValue": {
-        "name": "White",
-        "value": "#ffffff"
-      }
-    },
-    {
-      "name": "Overlay",
-      "description": "Use for overlays",
-      "lightValue": {
-        "name": "#0000004d",
-        "value": "#0000004d"
-      },
-      "darkValue": {
-        "name": "000000b3",
-        "value": "#000000b3"
-      }
-    },
-    {
-      "name": "Pink",
-      "description": "Use for pink accents",
-      "lightValue": {
-        "name": "Pink/500",
-        "value": "#ff288f"
-      },
-      "darkValue": {
-        "name": "Pink/400",
-        "value": "#ff4ca2"
-      }
-    },
-    {
-      "name": "Prime/Border",
-      "description": "Use for prime borders",
-      "lightValue": {
-        "name": "Amber/500",
-        "value": "#f59e0b"
-      },
-      "darkValue": {
-        "name": "Amber/400",
-        "value": "#fbbf24"
-      }
-    },
-    {
-      "name": "Prime/Default",
-      "description": "Use for prime elements",
-      "lightValue": {
-        "name": "Amber/500",
-        "value": "#f59e0b"
-      },
-      "darkValue": {
-        "name": "Amber/400",
-        "value": "#fbbf24"
-      }
-    },
-    {
       "name": "Raised/Bg/Default",
       "description": "Use for raised elements",
       "lightValue": {
@@ -574,6 +574,18 @@
       "darkValue": {
         "name": "Zinc/50",
         "value": "#fafafa"
+      }
+    },
+    {
+      "name": "State/Default/Background",
+      "description": "Use for default state background",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
       }
     },
     {
@@ -658,18 +670,6 @@
       "darkValue": {
         "name": "Red/400",
         "value": "#f87171"
-      }
-    },
-    {
-      "name": "State/Default/Background",
-      "description": "Use for default state background",
-      "lightValue": {
-        "name": "Zinc/300",
-        "value": "#fca5a5"
-      },
-      "darkValue": {
-        "name": "Zinc/600",
-        "value": "#dc2626"
       }
     },
     {
@@ -973,63 +973,63 @@
       }
     },
     {
-      "name": "Text/Default",
-      "description": "Use for emphasized text",
+      "name": "Logo",
+      "description": "Use for logos",
       "lightValue": {
-        "name": "Zinc/700",
-        "value": "#3f3f46"
+        "name": "Black",
+        "value": "#000000"
       },
       "darkValue": {
-        "name": "Zinc/300",
-        "value": "#d4d4d8"
+        "name": "White",
+        "value": "#ffffff"
       }
     },
     {
-      "name": "Text/Emphasize",
-      "description": "Use for emphasized text",
+      "name": "Overlay",
+      "description": "Use for overlays",
       "lightValue": {
-        "name": "Zinc/800",
-        "value": "#27272a"
+        "name": "#0000004d",
+        "value": "#0000004d"
       },
       "darkValue": {
-        "name": "Zinc/100",
-        "value": "#f4f4f5"
+        "name": "000000b3",
+        "value": "#000000b3"
       }
     },
     {
-      "name": "Text/Primary",
-      "description": "Use for primary text",
+      "name": "Pink",
+      "description": "Use for pink accents",
       "lightValue": {
-        "name": "Primary/500",
-        "value": "#564dff"
+        "name": "Pink/500",
+        "value": "#ff288f"
       },
       "darkValue": {
-        "name": "Primary/300",
-        "value": "#9894f9"
+        "name": "Pink/400",
+        "value": "#ff4ca2"
       }
     },
     {
-      "name": "Text/Subtle",
-      "description": "Use for subtitle text",
+      "name": "Prime/Border",
+      "description": "Use for prime borders",
       "lightValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
+        "name": "Amber/500",
+        "value": "#f59e0b"
       },
       "darkValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
+        "name": "Amber/400",
+        "value": "#fbbf24"
       }
     },
     {
-      "name": "Text/Subtler",
-      "description": "Use for subtle text",
+      "name": "Prime/Default",
+      "description": "Use for prime elements",
       "lightValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
+        "name": "Amber/500",
+        "value": "#f59e0b"
       },
       "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
+        "name": "Amber/400",
+        "value": "#fbbf24"
       }
     }
   ]
