@@ -589,6 +589,18 @@
       }
     },
     {
+      "name": "State/Danger/Default",
+      "description": "Use for danger state",
+      "lightValue": {
+        "name": "Red/500",
+        "value": "#ef4444"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
       "name": "State/Danger/Bg/Default",
       "description": "Use for danger state background",
       "lightValue": {
