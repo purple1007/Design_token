@@ -2,6 +2,7 @@
   "tokens": [
     {
       "name": "Text/Default",
+      "CSS": "--hmd-tw-text-default",
       "description": "Use for emphasized text",
       "lightValue": {
         "name": "Zinc/700",
@@ -14,6 +15,7 @@
     },
     {
       "name": "Text/Emphasize",
+      "CSS": "--hmd-tw-text-emphasize",
       "description": "Use for emphasized text",
       "lightValue": {
         "name": "Zinc/800",
@@ -26,6 +28,7 @@
     },
     {
       "name": "Text/Primary",
+      "CSS": "--hmd-tw-text-primary",
       "description": "Use for primary text",
       "lightValue": {
         "name": "Primary/500",
@@ -38,6 +41,7 @@
     },
     {
       "name": "Text/Subtle",
+      "CSS": "--hmd-tw-text-subtle",
       "description": "Use for subtitle text",
       "lightValue": {
         "name": "Zinc/500",
@@ -50,6 +54,7 @@
     },
     {
       "name": "Text/Subtler",
+      "CSS": "--hmd-tw-text-subtler",
       "description": "Use for subtle text",
       "lightValue": {
         "name": "Zinc/400",
@@ -62,6 +67,7 @@
     },
     {
       "name": "Background/Default",
+      "CSS": "--hmd-tw-background-default",
       "description": "Use for background",
       "lightValue": {
         "name": "Zinc/25",
@@ -74,6 +80,7 @@
     },
     {
       "name": "Background/Subtle",
+      "CSS": "--hmd-tw-background-subtle",
       "description": "Use for background",
       "lightValue": {
         "name": "Zinc/100",
@@ -86,6 +93,7 @@
     },
     {
       "name": "Background/Subtler",
+      "CSS": "--hmd-tw-background-subtler",
       "description": "Use for background",
       "lightValue": {
         "name": "Zinc/50",
@@ -98,6 +106,7 @@
     },
     {
       "name": "Background/Sunken",
+      "CSS": "--hmd-tw-background-sunken",
       "description": "Use for background",
       "lightValue": {
         "name": "Zinc/100",
@@ -110,6 +119,7 @@
     },
     {
       "name": "Background/Primary/Default",
+      "CSS": "--hmd-tw-background-primary-default",
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/500",
@@ -122,6 +132,7 @@
     },
     {
       "name": "Background/Primary/Focus",
+      "CSS": "--hmd-tw-background-primary-focus",
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/800",
@@ -134,6 +145,7 @@
     },
     {
       "name": "Background/Primary/Hover",
+      "CSS": "--hmd-tw-background-primary-hover",
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/800",
@@ -146,6 +158,7 @@
     },
     {
       "name": "Background/Primary/Disabled",
+      "CSS": "--hmd-tw-background-primary-disabled",
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/300",
@@ -158,6 +171,7 @@
     },
     {
       "name": "Background/Primary/Subtle",
+      "CSS": "--hmd-tw-background-primary-subtle",
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/100",
@@ -170,6 +184,7 @@
     },
     {
       "name": "Background/Primary/Subtler",
+      "CSS": "--hmd-tw-background-primary-subtler",
       "description": "Use for background",
       "lightValue": {
         "name": "Primary/50",
@@ -182,6 +197,7 @@
     },
     {
       "name": "Background/Selected",
+      "CSS": "--hmd-tw-background-selected",
       "description": "Use for background",
       "lightValue": {
         "name": "Zinc/100",
@@ -194,222 +210,20 @@
     },
     {
       "name": "Background/Blur",
+      "CSS": "--hmd-tw-background-blur",
       "description": "Use for background",
       "lightValue": {
-        "name": "#fdfdfd99",
-        "value": "#fdfdfd99"
+        "name": "rgba(253, 253, 253, .6)",
+        "value": "rgba(253, 253, 253, .6)"
       },
       "darkValue": {
-        "name": "#27272a99",
-        "value": "#27272a99"
-      }
-    },   
-    {
-      "name": "Border/Bold",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
-      },
-      "darkValue": {
-        "name": "Zinc/300",
-        "value": "#d4d4d8"
-      }
-    },
-    {
-      "name": "Border/Default",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Zinc/300",
-        "value": "#d4d4d8"
-      },
-      "darkValue": {
-        "name": "Zinc/600",
-        "value": "#52525b"
-      }
-    },
-    {
-      "name": "Border/Primary/Default",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Primary/500",
-        "value": "#564dff"
-      },
-      "darkValue": {
-        "name": "Primary/300",
-        "value": "#9894f9"
-      }
-    },
-    {
-      "name": "Border/Primary/Focus",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Primary/400",
-        "value": "#766df8"
-      },
-      "darkValue": {
-        "name": "Primary/400",
-        "value": "#766df8"
-      }
-    },
-    {
-      "name": "Border/Primary/Subtler",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Primary/400",
-        "value": "#766df8"
-      },
-      "darkValue": {
-        "name": "Primary/400",
-        "value": "#766df8"
-      }
-    },
-    {
-      "name": "Border/Subtle",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      },
-      "darkValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
-      }
-    },
-    {
-      "name": "Border/Subtler",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
-      },
-      "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      }
-    },
-    {
-      "name": "Border/Subtlest",
-      "description": "Use for borders",
-      "lightValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
-      },
-      "darkValue": {
-        "name": "Zinc/700",
-        "value": "#303036"
-      }
-    },
-    {
-      "name": "Element/Bg/Default",
-      "description": "Use for element backgrounds",
-      "lightValue": {
-        "name": "White",
-        "value": "#ffffff"
-      },
-      "darkValue": {
-        "name": "Zinc/700",
-        "value": "#3f3f46"
-      }
-    },
-    {
-      "name": "Element/Bg/Disabled",
-      "description": "Use for disabled element backgrounds",
-      "lightValue": {
-        "name": "Zinc/200",
-        "value": "#e4e4e7"
-      },
-      "darkValue": {
-        "name": "Zinc/750",
-        "value": "#303036"
-      }
-    },
-    {
-      "name": "Element/Bg/Hover",
-      "description": "Use for disabled element backgrounds",
-      "lightValue": {
-        "name": "Zinc/100",
-        "value": "#f4f4f5"
-      },
-      "darkValue": {
-        "name": "Zinc/700",
-        "value": "#3f3f46"
-      }
-    },
-    {
-      "name": "Element/Border/Hover",
-      "description": "Use for hovered element borders",
-      "lightValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      },
-      "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      }
-    },
-    {
-      "name": "Element/Border/Focus",
-      "description": "Use for focused element borders",
-      "lightValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      },
-      "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      }
-    },
-    {
-      "name": "Element/Border/Disabled",
-      "description": "Use for error element borders",
-      "lightValue": {
-        "name": "Border/Subtler",
-        "value": "#a1a1aa"
-      },
-      "darkValue": {
-        "name": "Border/Subtler",
-        "value": "#71717a"
-      }
-    },
-    {
-      "name": "Element/Border/Error",
-      "description": "Use for error element borders",
-      "lightValue": {
-        "name": "Red/600",
-        "value": "#dc2626"
-      },
-      "darkValue": {
-        "name": "Red/400",
-        "value": "#f87171"
-      }
-    },
-    {
-      "name": "Element/Text/Disabled",
-      "description": "Use for disabled text",
-      "lightValue": {
-        "name": "Zinc/400",
-        "value": "#a1a1aa"
-      },
-      "darkValue": {
-        "name": "Zinc/500",
-        "value": "#71717a"
-      }
-    },
-    {
-      "name": "Element/Text/Selected",
-      "description": "Use for selected text",
-      "lightValue": {
-        "name": "Primary/500",
-        "value": "#564dff"
-      },
-      "darkValue": {
-        "name": "White",
-        "value": "#ffffff"
+        "name": "rgba(39, 39, 42, .6)",
+        "value": "rgba(39, 39, 42, .6)"
       }
     },
     {
       "name": "Icon/Default",
+      "CSS": "--hmd-tw-icon-default",
       "description": "Use for icons",
       "lightValue": {
         "name": "Zinc/500",
@@ -422,6 +236,7 @@
     },
     {
       "name": "Icon/Disabled",
+      "CSS": "--hmd-tw-icon-disabled",
       "description": "Use for disabled icons",
       "lightValue": {
         "name": "Zinc/400",
@@ -434,6 +249,7 @@
     },
     {
       "name": "Icon/Emphasize",
+      "CSS": "--hmd-tw-icon-emphasize",
       "description": "Use for emphasized icons",
       "lightValue": {
         "name": "Zinc/800",
@@ -446,6 +262,7 @@
     },
     {
       "name": "Icon/Primary",
+      "CSS": "--hmd-tw-icon-primary",
       "description": "Use for primary icons",
       "lightValue": {
         "name": "Text/Primary (Primary/500)",
@@ -458,6 +275,7 @@
     },
     {
       "name": "Icon/Subtle",
+      "CSS": "--hmd-tw-icon-subtle",
       "description": "Use for subtle icons",
       "lightValue": {
         "name": "Zinc/400",
@@ -470,6 +288,7 @@
     },
     {
       "name": "Icon/Subtler",
+      "CSS": "--hmd-tw-icon-subtler",
       "description": "Use for subtitle icons",
       "lightValue": {
         "name": "Zinc/300",
@@ -482,6 +301,7 @@
     },
     {
       "name": "Icon/Subtlest",
+      "CSS": "--hmd-tw-icon-subtlest",
       "description": "Use for subtitle icons",
       "lightValue": {
         "name": "Zinc/200",
@@ -493,7 +313,229 @@
       }
     },
     {
+      "name": "Border/Default",
+      "CSS": "--hmd-tw-border-default",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      },
+      "darkValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      }
+    },
+    {
+      "name": "Border/Bold",
+      "CSS": "--hmd-tw-border-bold",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/600",
+        "value": "#52525b"
+      },
+      "darkValue": {
+        "name": "Zinc/300",
+        "value": "#d4d4d8"
+      }
+    },
+    {
+      "name": "Border/Subtle",
+      "CSS": "--hmd-tw-border-subtle",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      }
+    },
+    {
+      "name": "Border/Subtler",
+      "CSS": "--hmd-tw-border-subtler",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Border/Subtlest",
+      "CSS": "--hmd-tw-border-subtlest",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#303036"
+      }
+    },
+    {
+      "name": "Border/Primary/Default",
+      "CSS": "--hmd-tw-border-primary-default",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "Primary/300",
+        "value": "#9894f9"
+      }
+    },
+    {
+      "name": "Border/Primary/Focus",
+      "CSS": "--hmd-tw-border-primary-focus",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      },
+      "darkValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      }
+    },
+    {
+      "name": "Border/Primary/Subtler",
+      "CSS": "--hmd-tw-border-primary-subtler",
+      "description": "Use for borders",
+      "lightValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      },
+      "darkValue": {
+        "name": "Primary/400",
+        "value": "#766df8"
+      }
+    },
+    {
+      "name": "Element/Bg/Default",
+      "CSS": "--hmd-tw-element-bg-default",
+      "description": "Use for element backgrounds",
+      "lightValue": {
+        "name": "White",
+        "value": "#ffffff"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#3f3f46"
+      }
+    },
+    {
+      "name": "Element/Bg/Disabled",
+      "CSS": "--hmd-tw-element-bg-disabled",
+      "description": "Use for disabled element backgrounds",
+      "lightValue": {
+        "name": "Zinc/200",
+        "value": "#e4e4e7"
+      },
+      "darkValue": {
+        "name": "Zinc/750",
+        "value": "#303036"
+      }
+    },
+    {
+      "name": "Element/Bg/Hover",
+      "CSS": "--hmd-tw-element-bg-hover",
+      "description": "Use for disabled element backgrounds",
+      "lightValue": {
+        "name": "Zinc/100",
+        "value": "#f4f4f5"
+      },
+      "darkValue": {
+        "name": "Zinc/700",
+        "value": "#3f3f46"
+      }
+    },
+    {
+      "name": "Element/Border/Hover",
+      "CSS": "--hmd-tw-element-border-hover",
+      "description": "Use for hovered element borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Border/Focus",
+      "CSS": "--hmd-tw-element-border-focus",
+      "description": "Use for focused element borders",
+      "lightValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Border/Disabled",
+      "CSS": "--hmd-tw-element-border-disabled",
+      "description": "Use for error element borders",
+      "lightValue": {
+        "name": "Border/Subtler",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Border/Subtler",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Border/Error",
+      "CSS": "--hmd-tw-element-border-error",
+      "description": "Use for error element borders",
+      "lightValue": {
+        "name": "Red/600",
+        "value": "#dc2626"
+      },
+      "darkValue": {
+        "name": "Red/400",
+        "value": "#f87171"
+      }
+    },
+    {
+      "name": "Element/Text/Disabled",
+      "CSS": "--hmd-tw-element-text-disabled",
+      "description": "Use for disabled text",
+      "lightValue": {
+        "name": "Zinc/400",
+        "value": "#a1a1aa"
+      },
+      "darkValue": {
+        "name": "Zinc/500",
+        "value": "#71717a"
+      }
+    },
+    {
+      "name": "Element/Text/Selected",
+      "CSS": "--hmd-tw-element-text-selected",
+      "description": "Use for selected text",
+      "lightValue": {
+        "name": "Primary/500",
+        "value": "#564dff"
+      },
+      "darkValue": {
+        "name": "White",
+        "value": "#ffffff"
+      }
+    },
+    {
       "name": "Link-text/Default",
+      "CSS": "--hmd-tw-link-text-default",
       "description": "Use for default link text",
       "lightValue": {
         "name": "Primary/500",
@@ -506,6 +548,7 @@
     },
     {
       "name": "Link-text/Hover",
+      "CSS": "--hmd-tw-link-text-hover",
       "description": "Use for hovered link text",
       "lightValue": {
         "name": "Primary/800",
@@ -518,6 +561,7 @@
     },
     {
       "name": "Link-text/Pressed",
+      "CSS": "--hmd-tw-link-text-pressed",
       "description": "Use for pressed link text",
       "lightValue": {
         "name": "Primary/800",
@@ -530,6 +574,7 @@
     },
     {
       "name": "Raised/Bg/Default",
+      "CSS": "--hmd-tw-raised-bg-default",
       "description": "Use for raised elements",
       "lightValue": {
         "name": "Zinc/200",
@@ -542,6 +587,7 @@
     },
     {
       "name": "Raised/Bg/Hover",
+      "CSS": "--hmd-tw-raised-bg-hover",
       "description": "Use for hovered raised elements",
       "lightValue": {
         "name": "Zinc/300",
@@ -554,6 +600,7 @@
     },
     {
       "name": "Raised/Icon/Default",
+      "CSS": "--hmd-tw-raised-icon-default",
       "description": "Use for default raised icons",
       "lightValue": {
         "name": "Zinc/500",
@@ -566,6 +613,7 @@
     },
     {
       "name": "Raised/Icon/Hover",
+      "CSS": "--hmd-tw-raised-icon-hover",
       "description": "Use for hovered raised icons",
       "lightValue": {
         "name": "Zinc/600",
@@ -578,6 +626,7 @@
     },
     {
       "name": "State/Default/Background",
+      "CSS": "--hmd-tw-state-default-background",
       "description": "Use for default state background",
       "lightValue": {
         "name": "Zinc/300",
@@ -590,6 +639,7 @@
     },
     {
       "name": "State/Danger/Default",
+      "CSS": "--hmd-tw-state-danger-default",
       "description": "Use for danger state",
       "lightValue": {
         "name": "Red/500",
@@ -602,6 +652,7 @@
     },
     {
       "name": "State/Danger/Bg/Default",
+      "CSS": "--hmd-tw-state-danger-bg-default",
       "description": "Use for danger state background",
       "lightValue": {
         "name": "Red/500",
@@ -614,6 +665,7 @@
     },
     {
       "name": "State/Danger/Bg/Hover",
+      "CSS": "--hmd-tw-state-danger-bg-hover",
       "description": "Use for danger state background",
       "lightValue": {
         "name": "Red/600",
@@ -626,6 +678,7 @@
     },
     {
       "name": "State/Danger/Bg/Light",
+      "CSS": "--hmd-tw-state-danger-bg-light",
       "description": "Use for light danger state background",
       "lightValue": {
         "name": "Red/75",
@@ -638,6 +691,7 @@
     },
     {
       "name": "State/Danger/Border/Default",
+      "CSS": "--hmd-tw-state-danger-border",
       "description": "Use for danger state border",
       "lightValue": {
         "name": "Red/300",
@@ -650,18 +704,20 @@
     },
     {
       "name": "State/Danger/Border/Subtle",
+      "CSS": "--hmd-tw-state-danger-border-subtle",
       "description": "Use for light danger state border",
       "lightValue": {
         "name": "Red/200",
         "value": "#fecaca"
       },
       "darkValue": {
-        "name": "#ef44444d",
-        "value": "#ef44444d"
+        "name": "rgba(239, 68, 68, .3)",
+        "value": "rgba(239, 68, 68, .3)"
       }
     },
     {
       "name": "State/Danger/Icon",
+      "CSS": "--hmd-tw-state-danger-icon",
       "description": "Use for danger state icon",
       "lightValue": {
         "name": "Red/500",
@@ -674,6 +730,7 @@
     },
     {
       "name": "State/Danger/Text",
+      "CSS": "--hmd-tw-state-danger-text",
       "description": "Use for danger state text",
       "lightValue": {
         "name": "Red/500",
@@ -686,6 +743,7 @@
     },
     {
       "name": "State/Info/Background",
+      "CSS": "--hmd-tw-state-info-background",
       "description": "Use for info state background",
       "lightValue": {
         "name": "Sky/100",
@@ -698,6 +756,7 @@
     },
     {
       "name": "State/Info/Border/Default",
+      "CSS": "--hmd-tw-state-info-border",
       "description": "Use for info state border",
       "lightValue": {
         "name": "Sky/200",
@@ -710,6 +769,7 @@
     },
     {
       "name": "State/Info/Border/Subtle",
+      "CSS": "--hmd-tw-state-info-border-subtle",
       "description": "Use for light info state border",
       "lightValue": {
         "name": "Sky/200",
@@ -722,6 +782,7 @@
     },
     {
       "name": "State/Info/Default",
+      "CSS": "--hmd-tw-state-info-default",
       "description": "Use for info state text",
       "lightValue": {
         "name": "Sky/500",
@@ -734,6 +795,7 @@
     },
     {
       "name": "State/Info/Icon",
+      "CSS": "--hmd-tw-state-info-icon",
       "description": "Use for info state text",
       "lightValue": {
         "name": "Sky/500",
@@ -746,6 +808,7 @@
     },
     {
       "name": "State/Info/Text",
+      "CSS": "--hmd-tw-state-info-text",
       "description": "Use for info state text",
       "lightValue": {
         "name": "Sky/600",
@@ -758,6 +821,7 @@
     },
     {
       "name": "State/Success/Background",
+      "CSS": "--hmd-tw-state-success-background",
       "description": "Use for success state background",
       "lightValue": {
         "name": "Emerald/75",
@@ -770,6 +834,7 @@
     },
     {
       "name": "State/Success/Border/Default",
+      "CSS": "--hmd-tw-state-success-border",
       "description": "Use for success state border",
       "lightValue": {
         "name": "Emerald/200",
@@ -782,6 +847,7 @@
     },
     {
       "name": "State/Success/Border/Sublte",
+      "CSS": "--hmd-tw-state-success-border-subtle",
       "description": "Use for light success state border",
       "lightValue": {
         "name": "Emerald/200",
@@ -794,6 +860,7 @@
     },
     {
       "name": "State/Success/Default",
+      "CSS": "--hmd-tw-state-success-default",
       "description": "Use for success state text",
       "lightValue": {
         "name": "Green/400",
@@ -806,6 +873,7 @@
     },
     {
       "name": "State/Success/Icon",
+      "CSS": "--hmd-tw-state-success-icon",
       "description": "Use for success state text",
       "lightValue": {
         "name": "Emerald/400",
@@ -818,6 +886,7 @@
     },
     {
       "name": "State/Success/Text",
+      "CSS": "--hmd-tw-state-success-text",
       "description": "Use for success state text",
       "lightValue": {
         "name": "Emerald/600",
@@ -830,6 +899,7 @@
     },
     {
       "name": "State/Warning/Background",
+      "CSS": "--hmd-tw-state-warning-background",
       "description": "Use for warning state background",
       "lightValue": {
         "name": "Amber/75",
@@ -842,6 +912,7 @@
     },
     {
       "name": "State/Warning/Border/Default",
+      "CSS": "--hmd-tw-state-warning-border",
       "description": "Use for warning state border",
       "lightValue": {
         "name": "Amber/300",
@@ -854,6 +925,7 @@
     },
     {
       "name": "State/Warning/Border/Sublte",
+      "CSS": "--hmd-tw-state-warning-sublte",
       "description": "Use for light warning state border",
       "lightValue": {
         "name": "Amber/200",
@@ -866,6 +938,7 @@
     },
     {
       "name": "State/Warning/Default",
+      "CSS": "--hmd-tw-state-warning-default",
       "description": "Use for warning state text",
       "lightValue": {
         "name": "Amber/400",
@@ -878,6 +951,7 @@
     },
     {
       "name": "State/Warning/Icon",
+      "CSS": "--hmd-tw-state-danger-icon",
       "description": "Use for warning state text",
       "lightValue": {
         "name": "Amber/400",
@@ -890,6 +964,7 @@
     },
     {
       "name": "State/Warning/Text",
+      "CSS": "--hmd-tw-state-danger-text",
       "description": "Use for warning state text",
       "lightValue": {
         "name": "Amber/600",
@@ -902,6 +977,7 @@
     },
     {
       "name": "Text-mark/Comment/Default",
+      "CSS": "--hmd-tw-text-mark-comment-default",
       "description": "Use for default comment text marks",
       "lightValue": {
         "name": "Primary/500/30%",
@@ -914,6 +990,7 @@
     },
     {
       "name": "Text-mark/Comment/Selected",
+      "CSS": "--hmd-tw-text-mark-comment-selected",
       "description": "Use for selected comment text marks",
       "lightValue": {
         "name": "Primary/500/45%",
@@ -926,6 +1003,7 @@
     },
     {
       "name": "Text-mark/Diff/Del",
+      "CSS": "--hmd-tw-text-mark-diff-del",
       "description": "Use for selected comment text marks",
       "lightValue": {
         "name": "Red/100",
@@ -938,6 +1016,7 @@
     },
     {
       "name": "Text-mark/Diff/Ins",
+      "CSS": "--hmd-tw-text-mark-diff-ins",
       "description": "Use for selected comment text marks",
       "lightValue": {
         "name": "Emerald/100",
@@ -950,6 +1029,7 @@
     },
     {
       "name": "Text-mark/Suggest/Border",
+      "CSS": "--hmd-tw-text-mark-suggest-border",
       "description": "Use for selected comment text marks",
       "lightValue": {
         "name": "Emerald/600",
@@ -962,6 +1042,7 @@
     },
     {
       "name": "Text-mark/Suggest/Default",
+      "CSS": "--hmd-tw-text-mark-suggest-default",
       "description": "Use for selected comment text marks",
       "lightValue": {
         "name": "Emerald/200",
@@ -974,6 +1055,7 @@
     },
     {
       "name": "Text-mark/Suggest/Selected",
+      "CSS": "--hmd-tw-text-mark-suggest-selected",
       "description": "Use for selected comment text marks",
       "lightValue": {
         "name": "Emerald/300",
@@ -986,6 +1068,7 @@
     },
     {
       "name": "Logo",
+      "CSS": "--",
       "description": "Use for logos",
       "lightValue": {
         "name": "Black",
@@ -998,10 +1081,11 @@
     },
     {
       "name": "Overlay",
+      "CSS": "--hmd-tw-overlay",
       "description": "Use for overlays",
       "lightValue": {
-        "name": "#0000004d",
-        "value": "#0000004d"
+        "name": "rgba(0, 0, 0, .7)",
+        "value": "rgba(0, 0, 0, .7)"
       },
       "darkValue": {
         "name": "000000b3",
@@ -1010,6 +1094,7 @@
     },
     {
       "name": "Pink",
+      "CSS": "--hmd-tw",
       "description": "Use for pink accents",
       "lightValue": {
         "name": "Pink/500",
@@ -1022,6 +1107,7 @@
     },
     {
       "name": "Prime/Border",
+      "CSS": "--hmd-tw-border",
       "description": "Use for prime borders",
       "lightValue": {
         "name": "Amber/500",
@@ -1034,6 +1120,7 @@
     },
     {
       "name": "Prime/Default",
+      "CSS": "--hmd-tw-default",
       "description": "Use for prime elements",
       "lightValue": {
         "name": "Amber/500",
