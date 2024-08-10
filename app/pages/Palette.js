@@ -19,10 +19,10 @@ const PaltteToken = ({ token, group }) => (
 );
 
 const PaltteTokens = () => (
-  <div className="px-2">
+  <div className="px-2 py-8">
     {paletteTokens.tokens.map((token, index) => (
       <div key={index} token={token}>
-        <div className="sticky top-0 py-2 border-b border-zinc-600 bg-zinc-800">
+        <div className="sticky top-12 py-2 border-b border-zinc-600 bg-zinc-800">
           <p>{token.group}</p>
         </div>
         <PaltteToken token={token.list} group={token.group} />
