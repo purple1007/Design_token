@@ -1,10 +1,10 @@
-{
+{ 
   "tokens": [
     {
       "name": "Text/Default",
       "CSS": "--hmd-tw-text-default",
-      "description": "Use for emphasized text",
-      "lightValue": {
+      "description": "Use for default text color, such as body copy.",
+      "lightValue": { 
         "name": "Zinc/700",
         "value": "#3f3f46"
       },
@@ -16,8 +16,8 @@
     {
       "name": "Text/Emphasize",
       "CSS": "--hmd-tw-text-emphasize",
-      "description": "Use for emphasized text",
-      "lightValue": {
+      "description": "Use for emphasize text color, such as tittle, headline, primary button copy.",
+      "lightValue": { 
         "name": "Zinc/800",
         "value": "#27272a"
       },
@@ -29,8 +29,8 @@
     {
       "name": "Text/Primary",
       "CSS": "--hmd-tw-text-primary",
-      "description": "Use for primary text",
-      "lightValue": {
+      "description": "Use for primary text color.",
+      "lightValue": { 
         "name": "Primary/500",
         "value": "#564dff"
       },
@@ -42,8 +42,8 @@
     {
       "name": "Text/Subtle",
       "CSS": "--hmd-tw-text-subtle",
-      "description": "Use for subtitle text",
-      "lightValue": {
+      "description": "Use for secondary text color, such as detailed descriptions, subtle button links, and input field label copy.",
+      "lightValue": { 
         "name": "Zinc/500",
         "value": "#71717a"
       },
@@ -55,8 +55,8 @@
     {
       "name": "Text/Subtler",
       "CSS": "--hmd-tw-text-subtler",
-      "description": "Use for subtle text",
-      "lightValue": {
+      "description": "Use for tertiary text color.",
+      "lightValue": { 
         "name": "Zinc/400",
         "value": "#a1a1aa"
       },
@@ -68,8 +68,8 @@
     {
       "name": "Background/Default",
       "CSS": "--hmd-tw-background-default",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for default background color",
+      "lightValue": { 
         "name": "Zinc/25",
         "value": "#fdfdfd"
       },
@@ -81,8 +81,8 @@
     {
       "name": "Background/Subtle",
       "CSS": "--hmd-tw-background-subtle",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for a similar default background color.",
+      "lightValue": { 
         "name": "Zinc/100",
         "value": "#f4f4f5"
       },
@@ -94,8 +94,8 @@
     {
       "name": "Background/Subtler",
       "CSS": "--hmd-tw-background-subtler",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for a more similar default background color.",
+      "lightValue": { 
         "name": "Zinc/50",
         "value": "#f4f4f5"
       },
@@ -107,8 +107,8 @@
     {
       "name": "Background/Sunken",
       "CSS": "--hmd-tw-background-sunken",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for darken background",
+      "lightValue": { 
         "name": "Zinc/100",
         "value": "#f4f4f5"
       },
@@ -120,8 +120,8 @@
     {
       "name": "Background/Primary/Default",
       "CSS": "--hmd-tw-background-primary-default",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for primary background color, such as primary button.",
+      "lightValue": { 
         "name": "Primary/500",
         "value": "#564dff"
       },
@@ -133,8 +133,8 @@
     {
       "name": "Background/Primary/Focus",
       "CSS": "--hmd-tw-background-primary-focus",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for focus primary of elements in a focus state, such as primary button.",
+      "lightValue": { 
         "name": "Primary/800",
         "value": "#2e01a5"
       },
@@ -146,8 +146,8 @@
     {
       "name": "Background/Primary/Hover",
       "CSS": "--hmd-tw-background-primary-hover",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for hoverd sate of primary elements.",
+      "lightValue": { 
         "name": "Primary/800",
         "value": "#2e01a5"
       },
@@ -159,8 +159,8 @@
     {
       "name": "Background/Primary/Disabled",
       "CSS": "--hmd-tw-background-primary-disabled",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for disabled sate of primary elements.",
+      "lightValue": { 
         "name": "Primary/300",
         "value": "#9894f9"
       },
@@ -168,12 +168,12 @@
         "name": "#3932aa",
         "value": "#3932aa"
       }
-    },
+     },
     {
       "name": "Background/Primary/Subtle",
       "CSS": "--hmd-tw-background-primary-subtle",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use a background color that is similar to the primary background color.",
+      "lightValue": { 
         "name": "Primary/100",
         "value": "#cccafc"
       },
@@ -185,21 +185,21 @@
     {
       "name": "Background/Primary/Subtler",
       "CSS": "--hmd-tw-background-primary-subtler",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use a background color that is more similar to the primary background color.",
+      "lightValue": { 
         "name": "Primary/50",
         "value": "#ecebfe"
       },
       "darkValue": {
         "name": "#2c2a4a",
-        "value": "#2c2a4a"
+      "value": "#2c2a4a"
       }
-    },
+     },
     {
       "name": "Background/Selected",
       "CSS": "--hmd-tw-background-selected",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for the selected state of the background of elements.",
+      "lightValue": { 
         "name": "Zinc/100",
         "value": "#f4f4f5"
       },
@@ -207,25 +207,24 @@
         "name": "Zinc/600",
         "value": "#52525b"
       }
-    },
+     },
     {
       "name": "Background/Blur",
       "CSS": "--hmd-tw-background-blur",
-      "description": "Use for background",
-      "lightValue": {
+      "description": "Use for blurred background, such as navigation bar and loading background.",
+      "lightValue": { 
         "name": "rgba(253, 253, 253, .6)",
-        "value": "rgba(253, 253, 253, .6)"
-      },
-      "darkValue": {
+        "value": "rgba(253,,253, 253, .6)"},
+       "darkValue": {
         "name": "rgba(39, 39, 42, .6)",
         "value": "rgba(39, 39, 42, .6)"
       }
-    },
+     },
     {
       "name": "Icon/Default",
       "CSS": "--hmd-tw-icon-default",
-      "description": "Use for icons",
-      "lightValue": {
+      "description": "Use for default icon color.",
+      "lightValue": { 
         "name": "Zinc/500",
         "value": "#71717a"
       },
@@ -233,12 +232,12 @@
         "name": "Zinc/300",
         "value": "#d4d4d8"
       }
-    },
+     },
     {
       "name": "Icon/Disabled",
       "CSS": "--hmd-tw-icon-disabled",
-      "description": "Use for disabled icons",
-      "lightValue": {
+      "description": "Use for disabled state of icon color.",
+      "lightValue": { 
         "name": "Zinc/400",
         "value": "#a1a1aa"
       },
@@ -246,12 +245,12 @@
         "name": "Zinc/500",
         "value": "#71717a"
       }
-    },
+     },
     {
       "name": "Icon/Emphasize",
       "CSS": "--hmd-tw-icon-emphasize",
-      "description": "Use for emphasized icons",
-      "lightValue": {
+      "description": "Use for emphasized icon color.",
+      "lightValue": { 
         "name": "Zinc/800",
         "value": "#27272a"
       },
@@ -259,12 +258,12 @@
         "name": "Zinc/100",
         "value": "#f4f4f5"
       }
-    },
+     },
     {
       "name": "Icon/Primary",
       "CSS": "--hmd-tw-icon-primary",
-      "description": "Use for primary icons",
-      "lightValue": {
+      "description": "Use for primary icon color.",
+      "lightValue": { 
         "name": "Text/Primary (Primary/500)",
         "value": "#564dff"
       },
@@ -272,12 +271,12 @@
         "name": "Text/Primary (Primary/300)",
         "value": "#9894f9"
       }
-    },
+     },
     {
       "name": "Icon/Subtle",
       "CSS": "--hmd-tw-icon-subtle",
-      "description": "Use for subtle icons",
-      "lightValue": {
+      "description": "Use for a similar default icon color.",
+      "lightValue": { 
         "name": "Zinc/400",
         "value": "#a1a1aa"
       },
@@ -285,12 +284,12 @@
         "name": "Zinc/400",
         "value": "#a1a1aa"
       }
-    },
+     },
     {
       "name": "Icon/Subtler",
       "CSS": "--hmd-tw-icon-subtler",
-      "description": "Use for subtitle icons",
-      "lightValue": {
+      "description": "Use for a more similar default icon color.",
+      "lightValue": { 
         "name": "Zinc/300",
         "value": "#d4d4d8"
       },
@@ -298,12 +297,12 @@
         "name": "Zinc/500",
         "value": "#71717a"
       }
-    },
+     },
     {
       "name": "Icon/Subtlest",
       "CSS": "--hmd-tw-icon-subtlest",
-      "description": "Use for subtitle icons",
-      "lightValue": {
+      "description": "Use for a most similar default icon color.",
+      "lightValue": { 
         "name": "Zinc/200",
         "value": "#e4e4e7"
       },
@@ -311,12 +310,12 @@
         "name": "Zinc/600",
         "value": "#52525b"
       }
-    },
+     },
     {
       "name": "Border/Default",
       "CSS": "--hmd-tw-border-default",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use for default border color.",
+      "lightValue": { 
         "name": "Zinc/300",
         "value": "#d4d4d8"
       },
@@ -324,12 +323,12 @@
         "name": "Zinc/600",
         "value": "#52525b"
       }
-    },
+     },
     {
       "name": "Border/Bold",
       "CSS": "--hmd-tw-border-bold",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use for bold border color.",
+      "lightValue": { 
         "name": "Zinc/600",
         "value": "#52525b"
       },
@@ -337,12 +336,12 @@
         "name": "Zinc/300",
         "value": "#d4d4d8"
       }
-    },
+     },
     {
       "name": "Border/Subtle",
       "CSS": "--hmd-tw-border-subtle",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use a similar default border color.",
+      "lightValue": { 
         "name": "Zinc/500",
         "value": "#71717a"
       },
@@ -350,12 +349,12 @@
         "name": "Zinc/400",
         "value": "#a1a1aa"
       }
-    },
+     },
     {
       "name": "Border/Subtler",
       "CSS": "--hmd-tw-border-subtler",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use a more similar default border color.",
+      "lightValue": { 
         "name": "Zinc/400",
         "value": "#a1a1aa"
       },
@@ -363,12 +362,12 @@
         "name": "Zinc/500",
         "value": "#71717a"
       }
-    },
+     },
     {
       "name": "Border/Subtlest",
       "CSS": "--hmd-tw-border-subtlest",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use a most similar default border color.",
+      "lightValue": { 
         "name": "Zinc/200",
         "value": "#e4e4e7"
       },
@@ -376,12 +375,12 @@
         "name": "Zinc/700",
         "value": "#303036"
       }
-    },
+     },
     {
       "name": "Border/Primary/Default",
       "CSS": "--hmd-tw-border-primary-default",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use for default primary border color, such as primary button, activated comment card, etc.",
+      "lightValue": { 
         "name": "Primary/500",
         "value": "#564dff"
       },
@@ -389,12 +388,12 @@
         "name": "Primary/300",
         "value": "#9894f9"
       }
-    },
+     },
     {
       "name": "Border/Primary/Focus",
       "CSS": "--hmd-tw-border-primary-focus",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use for focus state of default primary border color, such as primary button, activated comment card, etc.",
+      "lightValue": { 
         "name": "Primary/400",
         "value": "#766df8"
       },
@@ -402,12 +401,12 @@
         "name": "Primary/400",
         "value": "#766df8"
       }
-    },
+     },
     {
       "name": "Border/Primary/Subtler",
       "CSS": "--hmd-tw-border-primary-subtler",
-      "description": "Use for borders",
-      "lightValue": {
+      "description": "Use a similar primary border color.",
+      "lightValue": { 
         "name": "Primary/400",
         "value": "#766df8"
       },
@@ -415,12 +414,12 @@
         "name": "Primary/400",
         "value": "#766df8"
       }
-    },
+     },
     {
       "name": "Element/Bg/Default",
       "CSS": "--hmd-tw-element-bg-default",
-      "description": "Use for element backgrounds",
-      "lightValue": {
+      "description": "Use for element default background color.",
+      "lightValue": { 
         "name": "White",
         "value": "#ffffff"
       },
@@ -428,12 +427,12 @@
         "name": "Zinc/700",
         "value": "#3f3f46"
       }
-    },
+     },
     {
       "name": "Element/Bg/Disabled",
       "CSS": "--hmd-tw-element-bg-disabled",
-      "description": "Use for disabled element backgrounds",
-      "lightValue": {
+      "description": "Use for disabled state of element background color.",
+      "lightValue": { 
         "name": "Zinc/200",
         "value": "#e4e4e7"
       },
@@ -441,12 +440,12 @@
         "name": "Zinc/750",
         "value": "#303036"
       }
-    },
+     },
     {
       "name": "Element/Bg/Hover",
       "CSS": "--hmd-tw-element-bg-hover",
-      "description": "Use for disabled element backgrounds",
-      "lightValue": {
+      "description": "Use for hoverd state of element background color.",
+      "lightValue": { 
         "name": "Zinc/100",
         "value": "#f4f4f5"
       },
@@ -454,12 +453,12 @@
         "name": "Zinc/700",
         "value": "#3f3f46"
       }
-    },
+     },
     {
       "name": "Element/Border/Hover",
       "CSS": "--hmd-tw-element-border-hover",
-      "description": "Use for hovered element borders",
-      "lightValue": {
+      "description": "Use for hoverd state of element border color.",
+      "lightValue": { 
         "name": "Zinc/500",
         "value": "#71717a"
       },
@@ -467,12 +466,12 @@
         "name": "Zinc/500",
         "value": "#71717a"
       }
-    },
+     },
     {
       "name": "Element/Border/Focus",
       "CSS": "--hmd-tw-element-border-focus",
-      "description": "Use for focused element borders",
-      "lightValue": {
+      "description": "Use for focus state of element border color.",
+      "lightValue": { 
         "name": "Zinc/500",
         "value": "#71717a"
       },
@@ -480,12 +479,12 @@
         "name": "Zinc/500",
         "value": "#71717a"
       }
-    },
+     },
     {
       "name": "Element/Border/Disabled",
       "CSS": "--hmd-tw-element-border-disabled",
-      "description": "Use for error element borders",
-      "lightValue": {
+      "description": "Use for disabled state of element border color.",
+      "lightValue": { 
         "name": "Border/Subtler",
         "value": "#a1a1aa"
       },
@@ -493,12 +492,12 @@
         "name": "Border/Subtler",
         "value": "#71717a"
       }
-    },
+     },
     {
       "name": "Element/Border/Error",
       "CSS": "--hmd-tw-element-border-error",
-      "description": "Use for error element borders",
-      "lightValue": {
+      "description": "Use for error element border color.",
+      "lightValue": { 
         "name": "Red/600",
         "value": "#dc2626"
       },
@@ -510,8 +509,8 @@
     {
       "name": "Element/Text/Disabled",
       "CSS": "--hmd-tw-element-text-disabled",
-      "description": "Use for disabled text",
-      "lightValue": {
+      "description": "Use for text in disabled states.",
+      "lightValue": { 
         "name": "Zinc/400",
         "value": "#a1a1aa"
       },
@@ -523,21 +522,21 @@
     {
       "name": "Element/Text/Selected",
       "CSS": "--hmd-tw-element-text-selected",
-      "description": "Use for selected text",
-      "lightValue": {
+      "description": "Use for text in selected states.",
+      "lightValue": { 
         "name": "Primary/500",
         "value": "#564dff"
       },
       "darkValue": {
         "name": "White",
-        "value": "#ffffff"
+        "value":"#ffffff"
       }
     },
     {
       "name": "Link-text/Default",
       "CSS": "--hmd-tw-link-text-default",
-      "description": "Use for default link text",
-      "lightValue": {
+      "description": "Use for link text color.",
+      "lightValue": { 
         "name": "Primary/500",
         "value": "#564dff"
       },
@@ -549,8 +548,8 @@
     {
       "name": "Link-text/Hover",
       "CSS": "--hmd-tw-link-text-hover",
-      "description": "Use for hovered link text",
-      "lightValue": {
+      "description": "Use for link text color in hoverd states.",
+      "lightValue": { 
         "name": "Primary/800",
         "value": "#2e01a5"
       },
@@ -562,8 +561,8 @@
     {
       "name": "Link-text/Pressed",
       "CSS": "--hmd-tw-link-text-pressed",
-      "description": "Use for pressed link text",
-      "lightValue": {
+      "description": "Use for link text color in pressed states.",
+      "lightValue": { 
         "name": "Primary/800",
         "value": "#2e01a5"
       },
@@ -575,8 +574,8 @@
     {
       "name": "Raised/Bg/Default",
       "CSS": "--hmd-tw-raised-bg-default",
-      "description": "Use for raised elements",
-      "lightValue": {
+      "description": "Use for raised elements background color.",
+      "lightValue": { 
         "name": "Zinc/200",
         "value": "#e4e4e7"
       },
@@ -588,8 +587,8 @@
     {
       "name": "Raised/Bg/Hover",
       "CSS": "--hmd-tw-raised-bg-hover",
-      "description": "Use for hovered raised elements",
-      "lightValue": {
+      "description": "Use for hovered state of raised element background color.",
+      "lightValue": { 
         "name": "Zinc/300",
         "value": "#d4d4d8"
       },
@@ -601,8 +600,8 @@
     {
       "name": "Raised/Icon/Default",
       "CSS": "--hmd-tw-raised-icon-default",
-      "description": "Use for default raised icons",
-      "lightValue": {
+      "description": "Use for default raised icon color.",
+      "lightValue": { 
         "name": "Zinc/500",
         "value": "#71717a"
       },
@@ -614,21 +613,21 @@
     {
       "name": "Raised/Icon/Hover",
       "CSS": "--hmd-tw-raised-icon-hover",
-      "description": "Use for hovered raised icons",
-      "lightValue": {
+      "description": "Use for hovered state of raised icon color.",
+      "lightValue": { 
         "name": "Zinc/600",
         "value": "#52525b"
       },
       "darkValue": {
         "name": "Zinc/50",
-        "value": "#fafafa"
+       "value": "#fafafa"
       }
-    },
+     },
     {
       "name": "State/Default/Background",
       "CSS": "--hmd-tw-state-default-background",
-      "description": "Use for default state background",
-      "lightValue": {
+      "description": "Use for default state background color.",
+      "lightValue": { 
         "name": "Zinc/300",
         "value": "#d4d4d8"
       },
@@ -636,12 +635,12 @@
         "name": "Zinc/600",
         "value": "#52525b"
       }
-    },
+     },
     {
       "name": "State/Danger/Default",
       "CSS": "--hmd-tw-state-danger-default",
-      "description": "Use for danger state",
-      "lightValue": {
+      "description": "Use for danger state color.",
+      "lightValue": { 
         "name": "Red/500",
         "value": "#ef4444"
       },
@@ -653,34 +652,34 @@
     {
       "name": "State/Danger/Bg/Default",
       "CSS": "--hmd-tw-state-danger-bg-default",
-      "description": "Use for danger state background",
-      "lightValue": {
+      "description": "Use for danger state default background color.",
+      "lightValue": { 
         "name": "Red/500",
         "value": "#ef4444"
       },
       "darkValue": {
         "name": "Red/500",
-        "value": "#ef4444"
+       "value": "#ef4444"
       }
-    },
+     },
     {
       "name": "State/Danger/Bg/Hover",
       "CSS": "--hmd-tw-state-danger-bg-hover",
-      "description": "Use for danger state background",
-      "lightValue": {
+      "description": "Use for danger and in hovered state background color.",
+      "lightValue": { 
         "name": "Red/600",
         "value": "#dc2626"
       },
       "darkValue": {
         "name": "Red/400",
-        "value": "#f87171"
+       "value": "#f87171"
       }
     },
     {
       "name": "State/Danger/Bg/Light",
       "CSS": "--hmd-tw-state-danger-bg-light",
-      "description": "Use for light danger state background",
-      "lightValue": {
+      "description": "Use for light danger state background color.",
+      "lightValue": { 
         "name": "Red/75",
         "value": "#feeeee"
       },
@@ -692,21 +691,21 @@
     {
       "name": "State/Danger/Border/Default",
       "CSS": "--hmd-tw-state-danger-border",
-      "description": "Use for danger state border",
-      "lightValue": {
+      "description": "Use for danger state border color.",
+      "lightValue": { 
         "name": "Red/300",
         "value": "#fca5a5"
       },
       "darkValue": {
         "name": "Red/400",
-        "value": "#f87171"
+       "value": "#f87171"
       }
-    },
+     },
     {
       "name": "State/Danger/Border/Subtle",
       "CSS": "--hmd-tw-state-danger-border-subtle",
-      "description": "Use for light danger state border",
-      "lightValue": {
+      "description": "Use for light danger state border color.",
+      "lightValue": { 
         "name": "Red/200",
         "value": "#fecaca"
       },
@@ -714,38 +713,38 @@
         "name": "rgba(239, 68, 68, .3)",
         "value": "rgba(239, 68, 68, .3)"
       }
-    },
+     },
     {
       "name": "State/Danger/Icon",
       "CSS": "--hmd-tw-state-danger-icon",
-      "description": "Use for danger state icon",
-      "lightValue": {
+      "description": "Use for danger state icon color.",
+      "lightValue": { 
         "name": "Red/500",
         "value": "#ef4444"
       },
       "darkValue": {
         "name": "Red/400",
-        "value": "#f87171"
+       "value": "#f87171"
       }
     },
     {
       "name": "State/Danger/Text",
       "CSS": "--hmd-tw-state-danger-text",
-      "description": "Use for danger state text",
-      "lightValue": {
+      "description": "Use for danger state text color.",
+      "lightValue": { 
         "name": "Red/500",
         "value": "#ef4444"
       },
       "darkValue": {
         "name": "Red/400",
-        "value": "#f87171"
+       "value": "#f87171"
       }
-    },
+     },
     {
       "name": "State/Info/Background",
       "CSS": "--hmd-tw-state-info-background",
-      "description": "Use for info state background",
-      "lightValue": {
+      "description": "Use for info state background color.",
+      "lightValue": { 
         "name": "Sky/100",
         "value": "#e0f2fe"
       },
@@ -753,25 +752,25 @@
         "name": "Sky/400/10%",
         "value": "#38bdf81a"
       }
-    },
+     },
     {
       "name": "State/Info/Border/Default",
       "CSS": "--hmd-tw-state-info-border",
-      "description": "Use for info state border",
-      "lightValue": {
+      "description": "Use for info state border color.",
+      "lightValue": { 
         "name": "Sky/200",
         "value": "#bae6fd"
       },
       "darkValue": {
         "name": "Sky/600",
-        "value": "#0284c7"
+       "value": "#0284c7"
       }
     },
     {
       "name": "State/Info/Border/Subtle",
       "CSS": "--hmd-tw-state-info-border-subtle",
-      "description": "Use for light info state border",
-      "lightValue": {
+      "description": "Use for light info state border color.",
+      "lightValue": { 
         "name": "Sky/200",
         "value": "#bae6fd"
       },
@@ -783,47 +782,47 @@
     {
       "name": "State/Info/Default",
       "CSS": "--hmd-tw-state-info-default",
-      "description": "Use for info state text",
-      "lightValue": {
+      "description": "Use for info state default color.",
+      "lightValue": { 
         "name": "Sky/500",
         "value": "#0ea5e9"
       },
       "darkValue": {
         "name": "Sky/500",
-        "value": "#0ea5e9"
+       "value": "#0ea5e9"
       }
-    },
+     },
     {
       "name": "State/Info/Icon",
       "CSS": "--hmd-tw-state-info-icon",
-      "description": "Use for info state text",
-      "lightValue": {
+      "description": "Use for info state icon color.",
+      "lightValue": { 
         "name": "Sky/500",
         "value": "#0ea5e9"
       },
       "darkValue": {
         "name": "Sky/500",
-        "value": "#0ea5e9"
+       "value": "#0ea5e9"
       }
     },
     {
       "name": "State/Info/Text",
       "CSS": "--hmd-tw-state-info-text",
-      "description": "Use for info state text",
-      "lightValue": {
+      "description": "Use for info state text color.",
+      "lightValue": { 
         "name": "Sky/600",
         "value": "#0284c7"
       },
       "darkValue": {
         "name": "Sky/400",
-        "value": "#38bdf8"
+       "value": "#38bdf8"
       }
-    },
+     },
     {
       "name": "State/Success/Background",
       "CSS": "--hmd-tw-state-success-background",
-      "description": "Use for success state background",
-      "lightValue": {
+      "description": "Use for success state background color.",
+      "lightValue": { 
         "name": "Emerald/75",
         "value": "#e5fbef"
       },
@@ -831,12 +830,12 @@
         "name": "Emerald/400/15%",
         "value": "#6bd19d26"
       }
-    },
+     },
     {
       "name": "State/Success/Border/Default",
       "CSS": "--hmd-tw-state-success-border",
-      "description": "Use for success state border",
-      "lightValue": {
+      "description": "Use for success state border color.",
+      "lightValue": { 
         "name": "Emerald/200",
         "value": "#b8f1d2"
       },
@@ -844,12 +843,12 @@
         "name": "Emerald/600",
         "value": "#43946c"
       }
-    },
+     },
     {
       "name": "State/Success/Border/Sublte",
       "CSS": "--hmd-tw-state-success-border-subtle",
-      "description": "Use for light success state border",
-      "lightValue": {
+      "description": "Use for light success state border color.",
+      "lightValue": { 
         "name": "Emerald/200",
         "value": "#b8f1d2"
       },
@@ -857,12 +856,12 @@
         "name": "Emerald/400/20%",
         "value": "#6bd19d33"
       }
-    },
+     },
     {
       "name": "State/Success/Default",
       "CSS": "--hmd-tw-state-success-default",
-      "description": "Use for success state text",
-      "lightValue": {
+      "description": "Use for success state default color.",
+      "lightValue": { 
         "name": "Green/400",
         "value": "#76d158"
       },
@@ -870,12 +869,12 @@
         "name": "Green/500",
         "value": "#59c335"
       }
-    },
+     },
     {
       "name": "State/Success/Icon",
       "CSS": "--hmd-tw-state-success-icon",
-      "description": "Use for success state text",
-      "lightValue": {
+      "description": "Use for success state icon color.",
+      "lightValue": { 
         "name": "Emerald/400",
         "value": "#6bd19d"
       },
@@ -883,12 +882,12 @@
         "name": "Emerald/500",
         "value": "#55b685"
       }
-    },
+     },
     {
       "name": "State/Success/Text",
       "CSS": "--hmd-tw-state-success-text",
-      "description": "Use for success state text",
-      "lightValue": {
+      "description": "Use for success state text color.",
+      "lightValue": { 
         "name": "Emerald/600",
         "value": "#43946c"
       },
@@ -896,12 +895,12 @@
         "name": "Emerald/500",
         "value": "#55b685"
       }
-    },
+     },
     {
       "name": "State/Warning/Background",
       "CSS": "--hmd-tw-state-warning-background",
-      "description": "Use for warning state background",
-      "lightValue": {
+      "description": "Use for warning state background color.",
+      "lightValue": { 
         "name": "Amber/75",
         "value": "#fef8dd"
       },
@@ -909,12 +908,12 @@
         "name": "Amber/400/10%",
         "value": "#fbbf241a"
       }
-    },
+     },
     {
       "name": "State/Warning/Border/Default",
       "CSS": "--hmd-tw-state-warning-border",
-      "description": "Use for warning state border",
-      "lightValue": {
+      "description": "Use for warning state border color.",
+      "lightValue": { 
         "name": "Amber/300",
         "value": "#fcd34d"
       },
@@ -922,12 +921,12 @@
         "name": "Amber/500",
         "value": "#f59e0b"
       }
-    },
+     },
     {
       "name": "State/Warning/Border/Sublte",
       "CSS": "--hmd-tw-state-warning-sublte",
-      "description": "Use for light warning state border",
-      "lightValue": {
+      "description": "Use for light warning state border color.",
+      "lightValue": { 
         "name": "Amber/200",
         "value": "#fde68a"
       },
@@ -935,12 +934,12 @@
         "name": "Amber/400/20%",
         "value": "#fbbf2433"
       }
-    },
+     },
     {
       "name": "State/Warning/Default",
       "CSS": "--hmd-tw-state-warning-default",
-      "description": "Use for warning state text",
-      "lightValue": {
+      "description": "Use for warning state color.",
+      "lightValue": { 
         "name": "Amber/400",
         "value": "#fbbf24"
       },
@@ -948,12 +947,12 @@
         "name": "Amber/500",
         "value": "#f59e0b"
       }
-    },
+     },
     {
       "name": "State/Warning/Icon",
       "CSS": "--hmd-tw-state-danger-icon",
-      "description": "Use for warning state text",
-      "lightValue": {
+      "description": "Use for warning state icon color.",
+      "lightValue": { 
         "name": "Amber/400",
         "value": "#fbbf24"
       },
@@ -961,12 +960,12 @@
         "name": "Amber/400",
         "value": "#fbbf24"
       }
-    },
+     },
     {
       "name": "State/Warning/Text",
       "CSS": "--hmd-tw-state-danger-text",
-      "description": "Use for warning state text",
-      "lightValue": {
+      "description": "Use for warning state text color.",
+      "lightValue": { 
         "name": "Amber/600",
         "value": "#d97706"
       },
@@ -974,38 +973,37 @@
         "name": "Amber/400",
         "value": "#fbbf24"
       }
-    },
+     },
     {
       "name": "Text-mark/Comment/Default",
       "CSS": "--hmd-tw-text-mark-comment-default",
-      "description": "Use for default comment text marks",
-      "lightValue": {
+      "description": "Use the background color of the selected text for comments.",
+      "lightValue": { 
         "name": "Primary/500/30%",
         "value": "#564dff4d"
       },
-      "darkValue": {
+       "darkValue": {
         "name": "Primary/600/30%",
         "value": "#453aff4d"
       }
-    },
+     },
     {
       "name": "Text-mark/Comment/Selected",
       "CSS": "--hmd-tw-text-mark-comment-selected",
-      "description": "Use for selected comment text marks",
-      "lightValue": {
+      "description": "Use the background color for the text being selected for comments.",
+      "lightValue": { 
         "name": "Primary/500/45%",
-        "value": "#564dff73"
-      },
-      "darkValue": {
+        "value": "#564dff73"},
+       "darkValue": {
         "name": "Primary/600/60%",
         "value": "#453aff99"
       }
-    },
+     },
     {
       "name": "Text-mark/Diff/Del",
       "CSS": "--hmd-tw-text-mark-diff-del",
-      "description": "Use for selected comment text marks",
-      "lightValue": {
+      "description": "Use the background color for marking the deleted text after comparing the content.",
+      "lightValue": { 
         "name": "Red/100",
         "value": "#fee2e2"
       },
@@ -1013,12 +1011,12 @@
         "name": "Red/500/20%",
         "value": "#ef444433"
       }
-    },
+     },
     {
       "name": "Text-mark/Diff/Ins",
       "CSS": "--hmd-tw-text-mark-diff-ins",
-      "description": "Use for selected comment text marks",
-      "lightValue": {
+      "description": "Use the background color of the text added after content comparison.",
+      "lightValue": { 
         "name": "Emerald/100",
         "value": "#d9f9e5"
       },
@@ -1026,12 +1024,12 @@
         "name": "Emerald/400/30%",
         "value": "#6bd19d4d"
       }
-    },
+     },
     {
       "name": "Text-mark/Suggest/Border",
       "CSS": "--hmd-tw-text-mark-suggest-border",
-      "description": "Use for selected comment text marks",
-      "lightValue": {
+      "description": "Used for the border color of selected text that is being suggested editing.",
+      "lightValue": { 
         "name": "Emerald/600",
         "value": "#43946c"
       },
@@ -1039,12 +1037,12 @@
         "name": "Emerald/400",
         "value": "#6bd19d"
       }
-    },
+     },
     {
       "name": "Text-mark/Suggest/Default",
       "CSS": "--hmd-tw-text-mark-suggest-default",
-      "description": "Use for selected comment text marks",
-      "lightValue": {
+      "description": "Used for the background color of selected text that is being suggested editing.",
+      "lightValue": { 
         "name": "Emerald/200",
         "value": "#b8f1d2"
       },
@@ -1052,12 +1050,12 @@
         "name": "#40ff6a33",
         "value": "#40ff6a33"
       }
-    },
+     },
     {
       "name": "Text-mark/Suggest/Selected",
       "CSS": "--hmd-tw-text-mark-suggest-selected",
-      "description": "Use for selected comment text marks",
-      "lightValue": {
+      "description": "Use for the background color of the selected text that is currently being suggested editing.",
+      "lightValue": { 
         "name": "Emerald/300",
         "value": "#8de4ba"
       },
@@ -1065,38 +1063,38 @@
         "name": "#40ff6a66",
         "value": "#40ff6a66"
       }
-    },
+     },
     {
       "name": "Logo",
       "CSS": "--",
-      "description": "Use for logos",
-      "lightValue": {
+      "description": "Use for logos color.",
+      "lightValue": { 
         "name": "Black",
         "value": "#000000"
       },
       "darkValue": {
         "name": "White",
-        "value": "#ffffff"
+      "value": "#ffffff"
       }
-    },
+     },
     {
       "name": "Overlay",
       "CSS": "--hmd-tw-overlay",
-      "description": "Use for overlays",
-      "lightValue": {
+      "description": "Use for overlays color.",
+      "lightValue": { 
         "name": "rgba(0, 0, 0, .7)",
         "value": "rgba(0, 0, 0, .7)"
       },
-      "darkValue": {
+       "darkValue": {
         "name": "000000b3",
         "value": "#000000b3"
       }
-    },
+     },
     {
       "name": "Pink",
       "CSS": "--hmd-tw",
       "description": "Use for pink accents",
-      "lightValue": {
+      "lightValue": { 
         "name": "Pink/500",
         "value": "#ff288f"
       },
@@ -1104,12 +1102,12 @@
         "name": "Pink/400",
         "value": "#ff4ca2"
       }
-    },
+     },
     {
       "name": "Prime/Border",
       "CSS": "--hmd-tw-border",
-      "description": "Use for prime borders",
-      "lightValue": {
+      "description": "Use for prime border color.",
+      "lightValue": { 
         "name": "Amber/500",
         "value": "#f59e0b"
       },
@@ -1117,19 +1115,19 @@
         "name": "Amber/400",
         "value": "#fbbf24"
       }
-    },
+     },
     {
       "name": "Prime/Default",
       "CSS": "--hmd-tw-default",
-      "description": "Use for prime elements",
-      "lightValue": {
+      "description": "--hmd-tw-default",
+      "lightValue": { 
         "name": "Amber/500",
         "value": "#f59e0b"
       },
       "darkValue": {
         "name": "Amber/400",
         "value": "#fbbf24"
-      }
+     }
     }
   ]
 }
